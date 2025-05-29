@@ -1,6 +1,7 @@
 # Card 06: Discriminations
 
-Lot: 2
+Lot: 2  
+url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/cards/06-discriminations.md
 
 ## English Version
 
@@ -18,3 +19,7 @@ Lot: 2
 4. Amaro, Ramon. 2022. The Black Technical Object: On Machine Learning and the Aspiration of Black Being. Berlin: Sternberg Press.
 5. Eubanks, Virginia. 2017. Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor. New York: St. Martin’s Press.
 6. Ovalle, A., Subramonian, A., Gautam, V., Gee, G., & Chang, K.-W. (2023). Factoring the Matrix of Domination : A Critical Review and Reimagination of Intersectionality in AI Fairness (arXiv:2303.17555). arXiv. https://doi.org/10.48550/arXiv.2303.17555
+
+## QR Code
+![image](https://github.com/user-attachments/assets/57718cca-0050-4af3-9bf3-5f47ef187bbf)
+

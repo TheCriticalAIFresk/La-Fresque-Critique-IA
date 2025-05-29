@@ -1,6 +1,7 @@
 # Card 10: Attention Economy
 
-Lot: 2
+Lot: 2  
+url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/cards/10-attention-economy.md
 
 ## English Version
 
@@ -18,3 +19,7 @@ Les GAFAMs génèrent des profits en maintenant l'attention des utilisateurs tou
 
 1. Castro, C., & Pham, A. (2020). Is the Attention Economy Noxious? Philosophers’ Imprint, 20(17), 1‑13.
 2. Bhargava, V. R., & Velasquez, M. (2021). Ethics of the Attention Economy : The Problem of Social Media Addiction. Business Ethics Quarterly, 31(3), 321‑359. https://doi.org/10.1017/beq.2020.32
+
+## QR Code
+![image](https://github.com/user-attachments/assets/5de19fe4-f00c-48a0-a00c-4dbd3372934c)
+

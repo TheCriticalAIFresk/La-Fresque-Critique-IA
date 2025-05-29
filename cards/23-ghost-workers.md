@@ -1,6 +1,7 @@
 # Card 23: Ghost Workers
 
-Lot: 2
+Lot: 2  
+url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/cards/23-ghost-workers.md
 
 ## English Version
 
@@ -19,3 +20,6 @@ Derrière l'automatisation de l'IA se cachent des travailleurs humains sous-pay�
 1. Raval, N. (2019). Automating informality: On AI and labour in the global South. Global Information Society Watch. Retrieved from https://giswatch.org/node/6202
 2. Crawford K (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. New Haven, CT: Yale University Press. (Chapter 2)
 3. Casilli, A. En attendant les robots. Enquête sur le travail du clic, Paris, Seuil, 2019
+
+## QR Code
+![image](https://github.com/user-attachments/assets/ae4565e8-cdd5-4850-8816-5ed7fbe33944)

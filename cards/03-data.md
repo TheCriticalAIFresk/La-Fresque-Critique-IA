@@ -1,6 +1,7 @@
 # Card 03: Data
 
-Lot: 1
+Lot: 1  
+url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/cards/03-data.md
 
 ## English Version
 
@@ -18,3 +19,6 @@ Les données numériques sont des informations encodées dans un format numériq
 
 1. Boyd, D. & Crawford, K. (2012). Critical Questions for Big Data : Provocations for a cultural, technological, and scholarly phenomenon. Information, Communication & Society, 15(5), 662‑679. https://doi.org/10.1080/1369118X.2012.678878
 2. Kitchin, R., & Lauriault, T. (2014). Towards Critical Data Studies : Charting and Unpacking Data Assemblages and Their Work (SSRN Scholarly Paper 2474112). Social Science Research Network. https://papers.ssrn.com/abstract=2474112
+
+## QR Code
+![image](https://github.com/user-attachments/assets/788c423e-ee83-488c-a2f6-cda2fa051a7a)

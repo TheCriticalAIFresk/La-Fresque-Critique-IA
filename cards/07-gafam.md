@@ -1,6 +1,7 @@
 # Card 07: GAFAM
 
-Lot: 3
+Lot: 3  
+url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/cards/07-gafam.md
 
 ## English Version
 
@@ -17,3 +18,7 @@ Les géants de la technologie comme Google, Apple, Facebook (Meta), Amazon et Mi
 ## Bibliography
 
 1. Moore, M. Tambini, D. 2018. Digital Dominance The Power of Google, Amazon, Facebook, and Apple. Oxford University Press.
+
+## QR Code
+![image](https://github.com/user-attachments/assets/a9b54a05-5e9e-4a1a-bbf9-3b1a288b934a)
+

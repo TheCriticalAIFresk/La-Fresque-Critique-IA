@@ -1,6 +1,7 @@
 # Card 33: Capitalism
 
-Lot: 4+
+Lot: 4+  
+url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/cards/33-capitalism.md
 
 ## English Version
 
@@ -17,3 +18,6 @@ Le capitalisme, un système économique fondé sur la propriété privée des mo
 
 ## Bibliography
 1. Verdegem, P. (2024). Dismantling AI capitalism : The commons as an alternative to the power concentration of Big Tech. AI & SOCIETY, 39(2), 727‑737. https://doi.org/10.1007/s00146-022-01437-8
+
+## QR Code
+![image](https://github.com/user-attachments/assets/5e4b3303-9188-485f-afdf-d0fb3486f828)

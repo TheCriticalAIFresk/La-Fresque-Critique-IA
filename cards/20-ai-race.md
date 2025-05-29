@@ -1,6 +1,7 @@
 # Card 20: AI Race
 
-Lot: 4
+Lot: 4  
+url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/cards/20-ai-race.md
 
 ## English Version
 
@@ -15,3 +16,6 @@ Some countries are engaged in a fierce race to secure their technological, econo
 Certains pays sont engagés dans une course féroce pour assurer leur avantage technologique, économique et militaire dans le domaine de l'IA, en investissant massivement dans des infrastructures d'IA. La Chine (DeepSeek) et les États-Unis (OpenAI) rivalisent pour dominer le marché.
 
 ## Bibliography
+
+## QR Code
+![image](https://github.com/user-attachments/assets/57d26820-38ab-49fe-b541-e8fbfab60d35)

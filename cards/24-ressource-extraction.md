@@ -1,6 +1,7 @@
 # Card 24: Resource Extraction
 
-Lot: 3
+Lot: 3  
+url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/cards/24-ressource-extraction.md
 
 ## English Version
 
@@ -15,3 +16,6 @@ Digital hardware are composed of a wide variety of metals like copper, lithium a
 Les équipements informatiques (hardware) sont composés d'une grande variété de métaux tels que le cuivre, le lithium et le cobalt. Ces minéraux doivent être extraits de la croûte terrestre, parfois dans des conditions de travail inhumaines pour les mineurs, et raffinés au moyen de procédés extrêmement polluants.
 
 ## Bibliography
+
+## QR Code
+![image](https://github.com/user-attachments/assets/5b41aeaa-1b36-4144-ad36-d9b96a055a5a)

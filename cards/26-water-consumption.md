@@ -1,6 +1,7 @@
 # Card 26: Water Consumption
 
-Lot: 3
+Lot: 3  
+url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/cards/26-water-consumption.md
 
 ## English Version
 
@@ -18,3 +19,6 @@ Les centres de données ont besoin de quantités massives d'eau pour refroidir l
 
 1. Hogan, M. (2015). Data flows and water woes: The Utah Data Center. Big Data & Society, 2(2). https://doi.org/10.1177/2053951715592429
 2. Li P, Yang J, Islam MA, et al. (2023) Making AI less ‘thirsty’: Uncovering and addressing the secret water footprints of AI models. arXiv:2304.03271v1. Available at: https://arxiv.org/pdf/2304.03271.pdf
+
+## QR Code
+![image](https://github.com/user-attachments/assets/f3401155-c4d9-4884-8488-be702188eb2c)

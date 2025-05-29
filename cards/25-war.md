@@ -1,6 +1,7 @@
 # Card 25: War
 
-Lot: 4
+Lot: 4  
+url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/cards/25-war.md
 
 ## English Version
 
@@ -15,3 +16,6 @@ AI is reshaping global power struggles as it is used in cyberattacks, surveillan
 L'IA remodèle les luttes de pouvoir à l'échelle mondiale à mesure qu'elle est utilisée dans les cyberattaques, la surveillance et les opérations militaires. Le contrôle de la recherche sur l'IA, des données et des chaînes d'approvisionnement en semi-conducteurs alimente les tensions entre les grandes puissances.
 
 ## Bibliography
+
+## QR Code
+![image](https://github.com/user-attachments/assets/cd90ac87-d967-40c0-981b-598ead201ab7)
