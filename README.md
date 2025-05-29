@@ -1,1 +1,1 @@
-# La-Fresque-Critique-IA
+# La Fresque Critique de l'IA
