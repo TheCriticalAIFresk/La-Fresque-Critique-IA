@@ -7,13 +7,13 @@ url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/card
 
 ### Data Extractivism
 
-Data extractivism refers to the large-scale capture, appropriation and exploitation of user data - such as behaviours or preferences - by GAFAMs, often without proper consent and appropriate privacy protocols.
+Data extractivism refers to the large-scale capture, appropriation and exploitation of user data - such as behaviours or preferences - by tech corporations, often without proper consent and appropriate privacy protocols.
 
 ## French Version
 
 ### Extractivisme de la Donnée
 
-L'extractivisme des données fait référence à la capture, à l'appropriation et à l'exploitation à grande échelle des données des utilisateurs - telles que les comportements ou les préférences - par les entreprises de la Big Tech, souvent sans consentement approprié et sans protocoles de protection de la vie privée adéquats.
+L'extractivisme des données fait référence à la capture, à l'appropriation et à l'exploitation à grande échelle des données des utilisateur·rice·s - telles que les comportements ou les préférences - par les entreprises technologiques, souvent sans consentement approprié et sans protocoles de protection de la vie privée adéquats.
 
 ## Bibliography
 
@@ -23,5 +23,5 @@ L'extractivisme des données fait référence à la capture, à l'appropriation 
 4. Magalhães, J. C., & Couldry, N. (2021). Giving by Taking Away : Big Tech, Data Colonialism, and the Reconfiguration of Social Good. International Journal of Communication, 15(0), Article 0.
 
 ## QR Code
-![image](https://github.com/user-attachments/assets/d573c2e2-9127-44a4-a789-a2feab3c7162)
 
+![image](https://github.com/user-attachments/assets/d573c2e2-9127-44a4-a789-a2feab3c7162)

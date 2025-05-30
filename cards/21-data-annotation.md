@@ -7,15 +7,16 @@ url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/card
 
 ### Data Annotation
 
-Data annotation consists of labeling, tagging and categorizing data in order to provide context and meaning. This work, predominantly done manually, is essential so AI model can learn, recognize patterns and extract insights from datasets.
+The process of labeling data so that AI systems can learn from it — for example, tagging images or rating text. Data annotation shapes how AI understands the world, but depends on large-scale manual work that remains largely invisible.
 
 ## French Version
 
 ### Annotation des Données
 
-L'annotation des données consiste à étiqueter, taguer et catégoriser les données afin de leur donner un contexte et une signification. Ce travail, principalement effectué manuellement, est essentiel pour que les modèles d'IA puissent apprendre, reconnaître des modèles et extraire des informations des ensembles de données.
+Le processus de labellisation des données pour permettre aux systèmes d’IA d’apprendre — par exemple, en étiquetant des images ou en évaluant des textes. L’annotation des données façonne la manière dont l’IA “comprend” le monde, mais repose sur un travail manuel à grande échelle qui reste en grande partie invisible.
 
 ## Bibliography
 
 ## QR Code
+
 ![image](https://github.com/user-attachments/assets/59950aa8-6c37-4097-be1d-f1e3a94b1bc1)

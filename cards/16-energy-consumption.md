@@ -21,4 +21,5 @@ La consommation d'électricité des centres de données, souvent issue de combus
 2. Shehabi, A., Smith, S.J., Hubbard, A., Newkirk, A., Lei, N., Siddik, M.A.B., Holecek, B., Koomey, J., Masanet, E., Sartor, D. 2024. 2024 United States Data Center Energy Usage Report. Lawrence Berkeley National Laboratory, Berkeley, California. LBNL-2001637
 
 ## QR Code
+
 ![image](https://github.com/user-attachments/assets/2a4f9e5b-4b18-4c44-b657-dad158f8763c)

@@ -13,7 +13,7 @@ Big tech companies generate profits by keeping users engaged while feeding them 
 
 ### Économie de l'Attention
 
-Les GAFAMs génèrent des profits en maintenant l'attention des utilisateurs tout en les alimentant d'un flux constant de publicités ciblées. Les algorithmes des médias sociaux cherchent donc à maximiser le temps passé devant l'écran grâce à des notifications, des recommandations de contenu personnalisées et l'amplification de contenus sensationnels.
+Les GAFAMs génèrent des profits en maintenant l'attention des utilisateur·rices tout en les alimentant d'un flux constant de publicités ciblées. Les algorithmes des médias sociaux cherchent donc à maximiser le temps passé devant l'écran grâce à des notifications, des recommandations de contenu personnalisées et l'amplification de contenus sensationnalistes.
 
 ## Bibliography
 
@@ -21,5 +21,5 @@ Les GAFAMs génèrent des profits en maintenant l'attention des utilisateurs tou
 2. Bhargava, V. R., & Velasquez, M. (2021). Ethics of the Attention Economy : The Problem of Social Media Addiction. Business Ethics Quarterly, 31(3), 321‑359. https://doi.org/10.1017/beq.2020.32
 
 ## QR Code
-![image](https://github.com/user-attachments/assets/5de19fe4-f00c-48a0-a00c-4dbd3372934c)
 
+![image](https://github.com/user-attachments/assets/5de19fe4-f00c-48a0-a00c-4dbd3372934c)

@@ -13,7 +13,7 @@ Behind AI automation are underpaid human workers who label data, moderate conten
 
 ### Travailleur·se·s Fantômes
 
-Derrière l'automatisation de l'IA se cachent des travailleurs humains sous-payés qui étiquettent les données, modèrent le contenu et corrigent les erreurs de l'IA. Originaires pour la plupart de pays du Sud, ces "travailleurs fantômes" sont confrontés à de mauvaises conditions, à de faibles salaires et à l'insécurité de l'emploi.
+Derrière l'automatisation de l'IA se cachent des travailleur·se·s humains sous-payés qui étiquettent les données, modèrent le contenu et corrigent les erreurs de l'IA. Originaires pour la plupart de pays du Sud, ces "travailleur·se·s fantômes" sont confrontés à de mauvaises conditions, à de faibles salaires et à l'insécurité de l'emploi.
 
 ## Bibliography
 
@@ -22,4 +22,5 @@ Derrière l'automatisation de l'IA se cachent des travailleurs humains sous-pay�
 3. Casilli, A. En attendant les robots. Enquête sur le travail du clic, Paris, Seuil, 2019
 
 ## QR Code
+
 ![image](https://github.com/user-attachments/assets/ae4565e8-cdd5-4850-8816-5ed7fbe33944)

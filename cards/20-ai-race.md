@@ -7,15 +7,16 @@ url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/card
 
 ### AI Race
 
-Some countries are engaged in a fierce race to secure their technological, economic and military advantage in AI, investing massively in AI infrastructures.This competition fosters a climate of urgency that sidelines responsible oversight. China (DeepSeek) and the USA (OpenAI) are both vying for dominance
+Some countries and corporations are engaged in a fierce race to secure their technological, economic and military advantage in AI, investing massively in its infrastructures.This competition fuels a climate of urgency that often sidelines ethical considerations and responsible oversight.
 
 ## French Version
 
 ### Course à l'IA
 
-Certains pays sont engagés dans une course féroce pour assurer leur avantage technologique, économique et militaire dans le domaine de l'IA, en investissant massivement dans des infrastructures d'IA. La Chine (DeepSeek) et les États-Unis (OpenAI) rivalisent pour dominer le marché.
+Certains pays et entreprises se livrent à une course effrénée pour s'assurer leur avantage technologique, économique et militaire dans le domaine de l'IA, en investissant massivement dans ses infrastructures. Cette concurrence alimente un climat d'urgence qui met souvent de côté les considérations éthiques.
 
 ## Bibliography
 
 ## QR Code
+
 ![image](https://github.com/user-attachments/assets/57d26820-38ab-49fe-b541-e8fbfab60d35)

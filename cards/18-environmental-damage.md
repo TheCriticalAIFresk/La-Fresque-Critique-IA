@@ -21,4 +21,5 @@ L'expansion rapide de l'IA accroît la pollution, la consommation d'énergie et 
 2. Crawford K (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. New Haven, CT: Yale University Press.
 
 ## QR Code
+
 ![image](https://github.com/user-attachments/assets/e1232b30-7f3e-4646-b9c7-c6cd27864906)

@@ -13,7 +13,7 @@ On social media, AI-driven amplification algorithms increase the reach of some s
 
 ### Amplification Algorithmique
 
-Sur les médias sociaux, les algorithmes d'amplification pilotés par l'IA augmentent la portée de certains discours et contenus, et en suppriment d'autres. Ce qui est promu et devient viral en ligne est souvent un contenu sensationnel ou chargé d'émotion parce qu'il attire davantage l'attention.
+Sur les médias sociaux, les algorithmes d'amplification pilotés par l'IA augmentent la portée de certains discours et contenus, et en suppriment d'autres. Ce qui est promu et devient viral en ligne est souvent un contenu sensationnaliste ou chargé d'émotion parce qu'il attire davantage l'attention.
 
 ## Bibliography
 
@@ -22,5 +22,5 @@ Sur les médias sociaux, les algorithmes d'amplification pilotés par l'IA augme
 3. Sîrbu, A., Pedreschi, D., Giannotti, F., & Kertész, J. (2019). Algorithmic bias amplifies opinion fragmentation and polarization : A bounded confidence model. PLOS ONE, 14(3), e0213246. https://doi.org/10.1371/journal.pone.0213246
 
 ## QR Code
-![image](https://github.com/user-attachments/assets/3decb33a-c928-4d88-ae80-5419116e2ef8)
 
+![image](https://github.com/user-attachments/assets/3decb33a-c928-4d88-ae80-5419116e2ef8)

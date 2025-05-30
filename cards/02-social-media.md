@@ -7,13 +7,13 @@ url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/card
 
 ### Social Media
 
-In 2024, over five billion people were using social media worldwide. Platforms such as Facebook, YouTube, Instagram, and TikTok now play a central role in how people connect, interact and get informed.
+In 2024, over five billion people used social media platforms like Facebook, YouTube, Instagram, and TikTok. These platforms shape how people connect, interact, and get informed — while harvesting personal data and using AI to promote content that can reinforce bias, polarize opinions, and spread misinformation.
 
 ## French Version
 
 ### Médias Sociaux
 
-En 2024, plus de cinq milliards de personnes utilisaient les médias sociaux dans le monde. Des plateformes telles que Facebook, YouTube, Instagram et TikTok jouent désormais un rôle central dans la manière dont les gens entrent en contact, interagissent et s'informent.
+En 2024, plus de cinq milliards de personnes utilisaient des plateformes de réseaux sociaux comme Facebook, YouTube, Instagram et TikTok. Ces plateformes façonnent la façon dont les gens se connectent, interagissent et s'informent, tout en collectant des données personnelles et en utilisant l'IA pour promouvoir des contenus susceptibles de renforcer les préjugés, de polariser les opinions et de propager la désinformation.
 
 ## Bibliography
 
@@ -22,5 +22,5 @@ En 2024, plus de cinq milliards de personnes utilisaient les médias sociaux dan
 3. Bhargava, V. R., & Velasquez, M. (2021). Ethics of the Attention Economy : The Problem of Social Media Addiction. Business Ethics Quarterly, 31(3), 321‑359. https://doi.org/10.1017/beq.2020.32
 
 ## QR Code
-![image](https://github.com/user-attachments/assets/8108c61b-a547-4755-948f-802f8527a86c)
 
+![image](https://github.com/user-attachments/assets/8108c61b-a547-4755-948f-802f8527a86c)

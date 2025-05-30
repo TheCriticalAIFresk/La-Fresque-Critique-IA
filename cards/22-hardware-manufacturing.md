@@ -16,4 +16,5 @@ AI requires physical infrastructure -microchips, servers, and sensors - produced
 L'IA nécessite une infrastructure physique - micropuces, serveurs et capteurs - produite dans des chaînes d'approvisionnement mondiales complexes et opaques, qui font souvent appel à une main-d'œuvre exploitée et à des activités minières néfastes pour l'environnement.
 
 ## Bibliography
+
 ![image](https://github.com/user-attachments/assets/6784fe9e-4828-4b4e-960f-6aca01c91d73)

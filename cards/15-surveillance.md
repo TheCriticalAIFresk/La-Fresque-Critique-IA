@@ -7,16 +7,16 @@ url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/card
 
 ### Surveillance
 
-AI allows governments and corporations to "see" across the large amount of data they capture and automate surveillance processes, as does facial recognition. AI system are also a driver for further data collection, as they rely on data to function effectively.
+AI allows governments and corporations to "see" across the large amount of data they capture. It also automate surveillance processes, through computer vision and facial recognition.
 
 ## French Version
 
 ### Surveillance
 
-L'IA permet aux gouvernements et aux entreprises de « voir » à travers la grande quantité de données qu'ils saisissent et d'automatiser les processus de surveillance, comme le fait la reconnaissance faciale. Les systèmes d'IA sont également un moteur pour la collecte de données comportementales supplémentaires, car ils s'appuient sur les données pour fonctionner efficacement.
+L'IA permet aux gouvernements et aux entreprises de « voir » à travers la grande quantité de données qu'ils collectent. Elle automatise également les processus de surveillance, grâce à la vision assistée par ordinateur et la reconnaissance faciale.
 
 ## Bibliography
 
 ## QR Code
-![image](https://github.com/user-attachments/assets/63862c66-62de-4ced-a23a-138d59bd6d5d)
 
+![image](https://github.com/user-attachments/assets/63862c66-62de-4ced-a23a-138d59bd6d5d)

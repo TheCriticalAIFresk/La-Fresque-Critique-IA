@@ -7,13 +7,13 @@ url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/card
 
 ### Algorithmic Bias
 
-When trained on unrepresentative, flawed or biased datasets, AI systems can produce discriminatory and unfair outcomes that systematically advantage or disadvantage certain groups of people.
+Algorithms can produce unfair or skewed outcomes that reflect biases in the training data or design choices. These biases can reproduce and even amplify existing forms of discrimination.
 
 ## French Version
 
 ### Biais Algorithmiques
 
-Lorsqu'ils sont formés sur des ensembles de données non représentatifs, défectueux ou biaisés, les systèmes d'IA peuvent produire des résultats discriminatoires et injustes qui avantagent ou désavantagent systématiquement certains groupes de personnes.
+Les algorithmes peuvent produire des résultats injustes ou faussés, reflétant des biais dans les données d'apprentissage ou des choix de conception. Ces biais peuvent reproduire, voire amplifier, des formes de discrimination existantes.
 
 ## Bibliography
 
@@ -22,5 +22,5 @@ Lorsqu'ils sont formés sur des ensembles de données non représentatifs, défe
 3. Amoore, L. (2006). Biometric borders: Governing mobilities in the war on terror. Political Geography, 25 (3), 336-351, ISSN 0962-6298. https://doi.org/10.1016/j.polgeo.2006.02.001
 
 ## QR Code
-![image](https://github.com/user-attachments/assets/1dd139ea-81cb-4fbf-8fc0-68c0342a5401)
 
+![image](https://github.com/user-attachments/assets/1dd139ea-81cb-4fbf-8fc0-68c0342a5401)

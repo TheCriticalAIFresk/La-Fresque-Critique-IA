@@ -7,13 +7,13 @@ url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/card
 
 ### Mental Health
 
-Various studies have reported links between social media use and increased levels of anxiety, stress, depression, and loneliness. More specifically, social media addiction seems to be associated with mental health issues.
+Various studies have reported links between social media use and increased levels of anxiety, stress, depression, and loneliness.
 
 ## French Version
 
 ### Santé Mentale
 
-Diverses études ont établi un lien entre l'utilisation des médias sociaux et l'augmentation des niveaux d'anxiété, de stress, de dépression et de solitude. Plus précisément, l'addiction aux médias sociaux semble être associée à des problèmes de santé mentale.
+Diverses études ont établi un lien entre l'utilisation des médias sociaux et l'augmentation des niveaux d'anxiété, de stress, de dépression et de solitude.
 
 ## Bibliography
 
@@ -21,4 +21,5 @@ Diverses études ont établi un lien entre l'utilisation des médias sociaux et 
 2. Hou, Y., Xiong, D., Jiang, T., Song, L., & Wang, Q. (2019). Social media addiction: Its impact, mediation, and intervention. Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 13(1), Article 4. https://doi.org/10.5817/CP2019-1-4
 
 ## QR Code
+
 ![image](https://github.com/user-attachments/assets/e3d5dd22-6592-4a74-97d3-84fdeceec4ec)

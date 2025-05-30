@@ -7,13 +7,13 @@ url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/card
 
 ### Colonialism
 
-Neocolonialism is a form of global power in which a former colonial power, transnational corporations and global and multilateral institutions combine to perpetuate colonial forms of exploitation of developing countries.
+Colonialism can be understood as an ongoing process of extraction and control, defined by a logic of racism, elimination, domination and dehumanization. Today, this logic extends to data and digital infrastructures, as AI systems depend on exploitative access to data, labor, and minerals—often from the Global South—reproducing global inequalities rooted in colonial histories.
 
 ## French Version
 
 ### Colonialisme
 
-Le neocolonialisme est une forme de pouvoir mondial dans laquelle une ancienne puissance coloniale, des sociétés transnationales et des institutions mondiales et multilatérales se combinent pour perpétuer les formes coloniales d'exploitation des pays en développement.
+Le colonialisme peut être compris comme un processus continu d'extraction et de contrôle, défini par une logique de racisme, d'élimination, de domination et de déshumanisation. Aujourd'hui, cette logique s'étend aux données et aux infrastructures numériques, car les systèmes d'IA dépendent de l'exploitation des données, de la main-d'œuvre et des minerais - souvent en provenance du Sud global - reproduisant les inégalités mondiales enracinées dans l'histoire coloniale.
 
 ## Bibliography
 
@@ -22,4 +22,5 @@ Le neocolonialisme est une forme de pouvoir mondial dans laquelle une ancienne p
 3. McGregor, D. (2017). From « Decolonized » to Reconciliation Research in Canada : Drawing from Indigenous Research Paradigms. ACME: An International Journal for Critical Geographies, 2018, 17(3): 810-831. https://digitalcommons.osgoode.yorku.ca/scholarly_works/2894
 
 ## QR Code
+
 ![image](https://github.com/user-attachments/assets/a52f4caf-9c7a-45f6-86ac-63ef5daa4694)

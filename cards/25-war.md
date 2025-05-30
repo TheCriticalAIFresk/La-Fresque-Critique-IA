@@ -18,4 +18,5 @@ L'IA remodèle les luttes de pouvoir à l'échelle mondiale à mesure qu'elle es
 ## Bibliography
 
 ## QR Code
+
 ![image](https://github.com/user-attachments/assets/cd90ac87-d967-40c0-981b-598ead201ab7)

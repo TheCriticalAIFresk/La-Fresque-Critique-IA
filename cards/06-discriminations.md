@@ -7,9 +7,13 @@ url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/card
 
 ### Discriminations
 
+The use of AI in sensitive areas (justice, employment, health, security) can perpetuate and amplify systemic oppressions, exposing gender minorities, racialized people and other marginalized groups to various forms of exclusion.
+
 ## French Version
 
-### Discriminations
+###
+
+L’usage de l’IA dans des domaines sensibles (justice, emploi, santé, sécurité) peut perpétuer et amplifier les discriminations systémiques, exposant minorités de genre, personnes racisées et autres groupes marginalisés à des formes d’exclusion.
 
 ## Bibliography
 
@@ -21,5 +25,5 @@ url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/card
 6. Ovalle, A., Subramonian, A., Gautam, V., Gee, G., & Chang, K.-W. (2023). Factoring the Matrix of Domination : A Critical Review and Reimagination of Intersectionality in AI Fairness (arXiv:2303.17555). arXiv. https://doi.org/10.48550/arXiv.2303.17555
 
 ## QR Code
-![image](https://github.com/user-attachments/assets/57718cca-0050-4af3-9bf3-5f47ef187bbf)
 
+![image](https://github.com/user-attachments/assets/57718cca-0050-4af3-9bf3-5f47ef187bbf)

@@ -21,4 +21,5 @@ Les centres de données ont besoin de quantités massives d'eau pour refroidir l
 2. Li P, Yang J, Islam MA, et al. (2023) Making AI less ‘thirsty’: Uncovering and addressing the secret water footprints of AI models. arXiv:2304.03271v1. Available at: https://arxiv.org/pdf/2304.03271.pdf
 
 ## QR Code
+
 ![image](https://github.com/user-attachments/assets/f3401155-c4d9-4884-8488-be702188eb2c)

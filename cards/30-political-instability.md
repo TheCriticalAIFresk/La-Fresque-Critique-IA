@@ -7,16 +7,16 @@ url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/card
 
 ### Political Instability
 
-Political instability emerges from various interconnected factors and has profound implications for both domestic and international arenas. Ultimately, it disrupts social order, weakens governance, and hampers economic growth.
+A situation where governments or institutions face weakened authority, social unrest, or conflict. Political instability can be fueled by climate change, economic inequality, forced migration, or the spread of misinformation — and can be worsened by technologies that deepen polarization or undermine trust in democratic systems.
 
 ## French Version
 
 ### Instabilité Politique
 
-L'instabilité politique résulte de divers facteurs interconnectés et a de profondes répercussions sur les scènes nationale et internationale. À terme, elle perturbe l'ordre social, affaiblit la gouvernance et entrave la croissance économique.
+Une situation dans laquelle les gouvernements ou les institutions sont confrontés à un affaiblissement de leur autorité, à des troubles sociaux ou à des conflits. L'instabilité politique peut être alimentée par le changement climatique, les inégalités économiques, les migrations forcées ou la propagation de fausses informations, et peut être aggravée par des technologies qui accentuent la polarisation ou sapent la confiance dans les systèmes démocratiques.
 
 ## Bibliography
 
 ## QR Code
-![image](https://github.com/user-attachments/assets/c16d5ac1-2a17-4864-8b05-2df7294dd4a3)
 
+![image](https://github.com/user-attachments/assets/c16d5ac1-2a17-4864-8b05-2df7294dd4a3)

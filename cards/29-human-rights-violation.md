@@ -18,4 +18,5 @@ Les systèmes d'IA présentent des risques importants pour les droits humains to
 ## Bibliography
 
 ## QR Code
+
 ![image](https://github.com/user-attachments/assets/0c895ab2-daea-44d6-949d-9e699e8b66d4)

@@ -23,5 +23,5 @@ Les centres de données sont des entrepôts géants remplis de serveurs qui stoc
 4. Greene, D. (2022). Landlords of the internet : Big data and big real estate. Social Studies of Science, 52(6), 904‑927. https://doi.org/10.1177/03063127221124943
 
 ## QR Code
-![image](https://github.com/user-attachments/assets/56cf20ba-0f2f-4f80-9cdc-06e6c55d21aa)
 
+![image](https://github.com/user-attachments/assets/56cf20ba-0f2f-4f80-9cdc-06e6c55d21aa)

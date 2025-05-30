@@ -7,16 +7,16 @@ url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/blob/main/card
 
 ### Techno-Optimism
 
-Techno-optimism is the belief that technological advancements, including AI, will lead to positive societal change, solve complex global challenges and improve the human condition.
+An ideology that sees technological progress as the primary solution to global challenges, including the environmental crisis. Promoted by powerful actors like GAFAM, techno-optimism often overlooks social, political, and ecological complexities — reinforcing the idea that innovation alone can replace systemic change.
 
 ## French Version
 
 ### Techno-Optimisme
 
-Le techno-optimisme est la croyance que les progrès technologiques sont la clé pour résoudre les problèmes mondiaux complexes, tels que la crise environnementale, et qu'il suscitent des changements sociétaux positifs.
+Idéologie qui considère le progrès technologique comme la principale solution aux défis mondiaux, notamment à la crise environnementale. Porté par des acteurs puissants comme les GAFAM, le techno-optimisme néglige souvent les complexités sociales, politiques et écologiques, renforçant l'idée que l'innovation seule peut remplacer les changements systémiques.
 
 ## Bibliography
 
 ## QR Code
-![image](https://github.com/user-attachments/assets/6af5f113-9eab-4fa0-a5b0-e95190c0842b)
 
+![image](https://github.com/user-attachments/assets/6af5f113-9eab-4fa0-a5b0-e95190c0842b)

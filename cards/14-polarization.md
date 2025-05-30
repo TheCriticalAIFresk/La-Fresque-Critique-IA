@@ -21,5 +21,5 @@ Les environnements en ligne nourris par l'IA poussent les gens dans des bulles i
 2. Sîrbu, A., Pedreschi, D., Giannotti, F., & Kertész, J. (2019). Algorithmic bias amplifies opinion fragmentation and polarization : A bounded confidence model. PLOS ONE, 14(3), e0213246. https://doi.org/10.1371/journal.pone.0213246
 
 ## QR Code
-![image](https://github.com/user-attachments/assets/c8e346fc-1fb5-4685-a05a-9c09d19826d3)
 
+![image](https://github.com/user-attachments/assets/c8e346fc-1fb5-4685-a05a-9c09d19826d3)

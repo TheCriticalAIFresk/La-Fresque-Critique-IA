@@ -20,4 +20,5 @@ L'inégalité d'accès à l'infrastructure et aux formations en matière d'IA ag
 1. International Labour Organization. (2021). Mind the AI divide: Shaping a global perspective on the future of work. International Labour Organization. https://www.ilo.org/publications/major-publications/mind-ai-divide-shaping-global-perspective-future-work
 
 ## QR Code
+
 ![image](https://github.com/user-attachments/assets/1c949ca4-ad01-428a-aaa3-dfa1acd28b39)

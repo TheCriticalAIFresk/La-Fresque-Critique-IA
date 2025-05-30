@@ -22,6 +22,5 @@ La désinformation est la diffusion d'informations fausses ou inexactes dans le 
 3. vVaccari, C., & Chadwick, A. (2020). Deepfakes and Disinformation : Exploring the Impact of Synthetic Political Video on Deception, Uncertainty, and Trust in News. Social Media + Society, 6(1), 2056305120903408. https://doi.org/10.1177/2056305120903408
 
 ## QR Code
+
 ![image](https://github.com/user-attachments/assets/913d28ec-528d-44bf-9814-fdb916c4eee7)
-
-
