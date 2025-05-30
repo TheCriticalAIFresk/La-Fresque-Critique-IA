@@ -17,6 +17,10 @@ Le processus de labellisation des données pour permettre aux systèmes d’IA d
 
 ## Bibliography
 
+1. Gray, M. L., & Suri, S. (2019). Ghost work: How to stop Silicon Valley from building a new global underclass. Harper Business.
+2. Tubaro, P., Casilli, A. A., & Coville, M. (2020). The trainer, the verifier, the imitator: Three ways in which human platform workers support artificial intelligence. Big Data & Society, 7(1), 2053951720919776.
+3. Miceli, M., & Posada, J. (2022). The data-production dispositif. Proceedings of the ACM on human-computer interaction, 6(CSCW2), 1-37.
+
 ## QR Code
 
 ![image](https://github.com/user-attachments/assets/59950aa8-6c37-4097-be1d-f1e3a94b1bc1)

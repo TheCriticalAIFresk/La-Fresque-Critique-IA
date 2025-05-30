@@ -17,6 +17,8 @@ L'IA remodèle les luttes de pouvoir à l'échelle mondiale à mesure qu'elle es
 
 ## Bibliography
 
+1. Johnson, J. (2019). Artificial intelligence & future warfare: implications for international security. Defense & Security Analysis, 35(2), 147-169.
+
 ## QR Code
 
 ![image](https://github.com/user-attachments/assets/cd90ac87-d967-40c0-981b-598ead201ab7)

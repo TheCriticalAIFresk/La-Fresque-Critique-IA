@@ -17,6 +17,9 @@ Les équipements informatiques sont composés d'une grande variété de métaux 
 
 ## Bibliography
 
+1. Amnesty International. (2016). " This is what We Die For": Human Rights Abuses in the Democratic Republic of the Congo Power the Global Trade in Cobalt. Amnesty International.
+2. Crawford, K. (2021). The atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press.
+
 ## QR Code
 
 ![image](https://github.com/user-attachments/assets/5b41aeaa-1b36-4144-ad36-d9b96a055a5a)

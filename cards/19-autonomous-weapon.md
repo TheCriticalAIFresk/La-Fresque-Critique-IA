@@ -17,6 +17,9 @@ Systèmes d’armes capables d’identifier et de frapper des cibles sans contr�
 
 ## Bibliography
 
+1. Morgan, F. E., Boudreaux, B., Lohn, A. J., Ashby, M., Curriden, C., Klima, K., & Grossman, D. (2020). Military applications of artificial intelligence. Santa Monica: RAND Corporation.
+2. Johnson, J. (2019). Artificial intelligence & future warfare: implications for international security. Defense & Security Analysis, 35(2), 147-169.
+
 ## QR Code
 
 ![image](https://github.com/user-attachments/assets/92e8ba50-e09a-4e5a-a93d-3927bdd1fb7b)

@@ -17,6 +17,10 @@ L'IA permet aux gouvernements et aux entreprises de « voir » à travers la gra
 
 ## Bibliography
 
+1. Zuboff, S. (2023). The age of surveillance capitalism. In Social theory re-wired (pp. 203-213). Routledge.
+2. Murray, M. (2022). The infrastructures of security: Technologies of risk management in Johannesburg. University of Michigan Press.
+3. Byler, D. (2021). Terror capitalism: Uyghur dispossession and masculinity in a Chinese city. Duke University Press.
+
 ## QR Code
 
 ![image](https://github.com/user-attachments/assets/63862c66-62de-4ced-a23a-138d59bd6d5d)

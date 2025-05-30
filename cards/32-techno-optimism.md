@@ -17,6 +17,8 @@ Idéologie qui considère le progrès technologique comme la principale solution
 
 ## Bibliography
 
+1. Morozov, E. (2013). To save everything, click here: The folly of technological solutionism. PublicAffairs.
+
 ## QR Code
 
 ![image](https://github.com/user-attachments/assets/6af5f113-9eab-4fa0-a5b0-e95190c0842b)

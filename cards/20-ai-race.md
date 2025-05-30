@@ -17,6 +17,8 @@ Certains pays et entreprises se livrent à une course effrénée pour s'assurer 
 
 ## Bibliography
 
+1. Cave, S., & ÓhÉigeartaigh, S. S. (2018, December). An AI race for strategic advantage: rhetoric and risks. In Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society (pp. 36-40).
+
 ## QR Code
 
 ![image](https://github.com/user-attachments/assets/57d26820-38ab-49fe-b541-e8fbfab60d35)

@@ -18,6 +18,7 @@ Le capitalisme, un système économique fondé sur la propriété privée des mo
 ## Bibliography
 
 1. Verdegem, P. (2024). Dismantling AI capitalism : The commons as an alternative to the power concentration of Big Tech. AI & SOCIETY, 39(2), 727‑737. https://doi.org/10.1007/s00146-022-01437-8
+2. 
 
 ## QR Code
 

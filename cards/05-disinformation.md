@@ -20,6 +20,8 @@ La désinformation est la diffusion d'informations fausses ou inexactes dans le 
 1. Bontridder, N., & Poullet, Y. (2021). The role of artificial intelligence in disinformation. Data & Policy, 3, e32. https://doi.org/10.1017/dap.2021.20
 2. Kertysova, K. (2018). Artificial Intelligence and Disinformation : How AI Changes the Way Disinformation is Produced, Disseminated, and Can Be Countered. Security and Human Rights. https://doi.org/10.1163/18750230-02901005
 3. vVaccari, C., & Chadwick, A. (2020). Deepfakes and Disinformation : Exploring the Impact of Synthetic Political Video on Deception, Uncertainty, and Trust in News. Social Media + Society, 6(1), 2056305120903408. https://doi.org/10.1177/2056305120903408
+4. Wu, L., Morstatter, F., Carley, K. M., & Liu, H. (2019). Misinformation in social media: definition, manipulation, and detection. ACM SIGKDD explorations newsletter, 21(2), 80-90.
+5. Bennett, W. L., & Livingston, S. (2018). The disinformation order: Disruptive communication and the decline of democratic institutions. European journal of communication, 33(2), 122-139.
 
 ## QR Code
 

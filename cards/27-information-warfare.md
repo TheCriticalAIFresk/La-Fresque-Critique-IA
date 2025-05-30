@@ -18,6 +18,8 @@ Utilisation stratégique des médias, des récits et des plateformes numériques
 ## Bibliography
 
 1. Hunter, L. Y., Albert, C. D., Rutland, J., Topping, K., & Hennigan, C. (2024). Artificial intelligence and information warfare in major power states: how the US, China, and Russia are using artificial intelligence in their information warfare and influence operations. Defense & Security Analysis, 40(2), 235–269. https://doi.org/10.1080/14751798.2024.2321736
+2. Bradshaw, S., & Howard, P. N. (2019). The global disinformation order: 2019 global inventory of organised social media manipulation.
+3. Woolley, S. C., & Howard, P. N. (Eds.). (2018). Computational propaganda: Political parties, politicians, and political manipulation on social media. Oxford University Press.
 
 ## QR Code
 

@@ -20,6 +20,7 @@ Derrière l'automatisation de l'IA se cachent des travailleur·se·s humains sou
 1. Raval, N. (2019). Automating informality: On AI and labour in the global South. Global Information Society Watch. Retrieved from https://giswatch.org/node/6202
 2. Crawford K (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. New Haven, CT: Yale University Press. (Chapter 2)
 3. Casilli, A. En attendant les robots. Enquête sur le travail du clic, Paris, Seuil, 2019
+4. Gray, M. L., & Suri, S. (2019). Ghost work: How to stop Silicon Valley from building a new global underclass. Harper Business.
 
 ## QR Code
 

@@ -17,6 +17,10 @@ Les systèmes d'IA présentent des risques importants pour les droits humains to
 
 ## Bibliography
 
+1. Now, A. (2018). Human rights in the age of artificial intelligence. Access Now.
+2. Rodrigues, R. (2020). Legal and human rights issues of AI: Gaps, challenges and vulnerabilities. Journal of Responsible Technology, 4, 100005.
+3. Bacciarelli, A. (2023). The Toronto Declaration: Protecting the right to equality and non-discrimination in machine learning systems.
+
 ## QR Code
 
 ![image](https://github.com/user-attachments/assets/0c895ab2-daea-44d6-949d-9e699e8b66d4)
