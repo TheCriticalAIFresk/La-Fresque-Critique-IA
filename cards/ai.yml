@@ -1,0 +1,14 @@
+card_number: 1
+card_set: 1
+url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/ai.yml
+img: assets/imgs/ai.png
+title_en: Artificial Intelligence
+description_en: A set of techniques that use large amounts of data to automate tasks or generate content. Recent AI systems, especially generative AI, demand growing energy, resources, and invisible human labor.
+title_fr: Intelligence Artificielle
+description_fr: Ensemble de techniques utilisant de grandes quantités de données pour automatiser des tâches ou générer du contenu. Les systèmes d'IA récents, notamment l'IA générative, nécessitent une énergie, des ressources et un travail humain invisible croissants.
+bibliography:
+  - "Dwivedi, Y. K., Hughes, L., Ismagilova, E., Aarts, G., Coombs, C., Crick, T., ... & Williams, M. D. (2021). Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy. International journal of information management, 57, 101994."
+  - "Placani, A. (2024). Anthropomorphism in AI : Hype and fallacy. AI and Ethics, 4(3), 691‑698. https://doi.org/10.1007/s43681-024-00419-4"
+  - "Al-kfairy, M., Mustafa, D., Kshetri, N., Insiew, M., & Alfandi, O. (2024). Ethical Challenges and Solutions of Generative AI : An Interdisciplinary Perspective. Informatics, 11(3), Article 3. https://doi.org/10.3390/informatics11030058"
+  - "https://cartography-of-generative-ai.net/"
+  - "Raley, R., & Rhee, J. (2023). Critical AI : A Field in Formation. American Literature, 95(2), 185‑204. https://doi.org/10.1215/00029831-10575021"

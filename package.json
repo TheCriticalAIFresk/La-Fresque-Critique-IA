@@ -1,0 +1,21 @@
+{
+  "name": "my-card-game",
+  "type": "commonjs",
+  "scripts": {
+    "generate:pdf": "vite-node scripts/generate-pdf.ts"
+  },
+  "dependencies": {
+    "@react-pdf/renderer": "^4.3.0",
+    "fs": "^0.0.1-security",
+    "js-yaml": "^4.1.0",
+    "path": "^0.12.7",
+    "qrcode": "^1.5.4",
+    "react": "^19.1.0",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/qrcode": "^1.5.5",
+    "@types/react": "^19.1.8"
+  }
+}

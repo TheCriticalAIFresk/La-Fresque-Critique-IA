@@ -1,0 +1,3 @@
+.env/
+*.pkl
+node_modules/
