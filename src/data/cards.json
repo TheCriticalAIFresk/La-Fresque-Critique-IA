@@ -1,0 +1,42 @@
+[
+  {
+    "title_en": "Artificial Intelligence",
+    "title_fr": "Intelligence Artificielle",
+    "description_en": "A set of techniques that use large amounts of data to automate tasks or generate content. Recent AI systems, especially generative AI, demand growing energy, resources, and invisible human labor.",
+    "description_fr": "Ensemble de techniques utilisant de grandes quantités de données pour automatiser des tâches ou générer du contenu. Les systèmes d'IA récents, notamment l'IA générative, nécessitent une énergie, des ressources et un travail humain invisible croissants.",
+    "number": 1,
+    "img": "assets/imgs/ai.png"
+  },
+  {
+    "title_en": "Algorithmic Bias",
+    "title_fr": "Biais Algorithmiques",
+    "description_en": "Algorithms can produce unfair or skewed outcomes that reflect biases in the training data or design choices. These biases can reproduce and even amplify existing forms of discrimination.",
+    "description_fr": "Les algorithmes peuvent produire des résultats injustes ou faussés, reflétant des biais dans les données d'apprentissage ou des choix de conception. Ces biais peuvent reproduire, voire amplifier, des formes de discrimination existantes.",
+    "number": 4,
+    "img": "assets/imgs/algorithmic-bias.png"
+  },
+  {
+    "title_en": "Data",
+    "title_fr": "Données",
+    "description_en": "Raw information collected from our actions, devices, and environments. AI systems critically depend on massive amounts of data to function. But how data is collected, selected, and used is never neutral — it reflects power relations and can reinforce bias and inequality.",
+    "description_fr": "Informations brutes collectées à partir de nos actions, de nos appareils et de notre environnement. Le fonctionnement des systèmes d'IA dépend de manière critique d'énormes quantités de données. Cependant, la manière dont les données sont collectées, sélectionnées et utilisées n'est jamais neutre : elle reflète les relations de pouvoir et peut renforcer les préjugés et les inégalités.",
+    "number": 3,
+    "img": "assets/imgs/data.png"
+  },
+  {
+    "title_en": "Disinformation",
+    "title_fr": "Désinformation",
+    "description_en": "Disinformation is the dissemination of false or inaccurate information with the aim of causing serious harm, manipulating public opinion and even influencing elections. AI can help generate and automate the quick spreading of false information disguised as real news on social media.",
+    "description_fr": "La désinformation est la diffusion d'informations fausses ou inexactes dans le but de causer de préjudices, de manipuler l'opinion publique et même d'influencer les élections. L'IA peut contribuer à générer et à automatiser la diffusion rapide de fausses informations déguisées en vraies nouvelles sur les médias sociaux.",
+    "number": 5,
+    "img": "assets/imgs/disinformation.png"
+  },
+  {
+    "title_en": "Social Media",
+    "title_fr": "Médias Sociaux",
+    "description_en": "In 2024, over five billion people used social media platforms like Facebook, YouTube, Instagram, and TikTok. These platforms shape how people connect, interact, and get informed — while harvesting personal data and using AI to promote content that can reinforce bias, polarize opinions, and spread misinformation.",
+    "description_fr": "En 2024, plus de cinq milliards de personnes utilisaient des plateformes de réseaux sociaux comme Facebook, YouTube, Instagram et TikTok. Ces plateformes façonnent la façon dont les gens se connectent, interagissent et s'informent, tout en collectant des données personnelles et en utilisant l'IA pour promouvoir des contenus susceptibles de renforcer les préjugés, de polariser les opinions et de propager la désinformation.",
+    "number": 2,
+    "img": "assets/imgs/social-media.png"
+  }
+]
