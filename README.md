@@ -21,3 +21,12 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Printable PDF
+
+The printable PDF version of the La Fresque Critique de l'IA is available in the `pdf/` folder.
+You can generate the PDF by running the following command:
+
+```bash
+npm run generate:pdf
+```
