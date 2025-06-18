@@ -23,8 +23,8 @@ type Props = {
   cards: {
     title: string;
     description: string;
-    number: string;
-    setLabel: string;
+    number: number;
+    setLabel: number;
     imagePath: string;
     url?: string;
   }[];

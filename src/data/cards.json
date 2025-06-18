@@ -1,42 +1,85 @@
 [
   {
+    "card_number": 1,
+    "card_set": 1,
     "title_en": "Artificial Intelligence",
     "title_fr": "Intelligence Artificielle",
     "description_en": "A set of techniques that use large amounts of data to automate tasks or generate content. Recent AI systems, especially generative AI, demand growing energy, resources, and invisible human labor.",
     "description_fr": "Ensemble de techniques utilisant de grandes quantités de données pour automatiser des tâches ou générer du contenu. Les systèmes d'IA récents, notamment l'IA générative, nécessitent une énergie, des ressources et un travail humain invisible croissants.",
-    "number": 1,
-    "img": "assets/imgs/ai.png"
+    "img": "assets/imgs/ai.png",
+    "bibliography": [
+      "Dwivedi, Y. K., Hughes, L., Ismagilova, E., Aarts, G., Coombs, C., Crick, T., ... & Williams, M. D. (2021). Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy. International journal of information management, 57, 101994.",
+      "Placani, A. (2024). Anthropomorphism in AI : Hype and fallacy. AI and Ethics, 4(3), 691‑698. https://doi.org/10.1007/s43681-024-00419-4",
+      "Al-kfairy, M., Mustafa, D., Kshetri, N., Insiew, M., & Alfandi, O. (2024). Ethical Challenges and Solutions of Generative AI : An Interdisciplinary Perspective. Informatics, 11(3), Article 3. https://doi.org/10.3390/informatics11030058",
+      "https://cartography-of-generative-ai.net/",
+      "Raley, R., & Rhee, J. (2023). Critical AI : A Field in Formation. American Literature, 95(2), 185‑204. https://doi.org/10.1215/00029831-10575021"
+    ],
+    "url": "https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/ai.yml",
+    "qr_img": "/qrcodes/card_1.png"
   },
   {
+    "card_number": 4,
+    "card_set": 2,
     "title_en": "Algorithmic Bias",
     "title_fr": "Biais Algorithmiques",
     "description_en": "Algorithms can produce unfair or skewed outcomes that reflect biases in the training data or design choices. These biases can reproduce and even amplify existing forms of discrimination.",
     "description_fr": "Les algorithmes peuvent produire des résultats injustes ou faussés, reflétant des biais dans les données d'apprentissage ou des choix de conception. Ces biais peuvent reproduire, voire amplifier, des formes de discrimination existantes.",
-    "number": 4,
-    "img": "assets/imgs/algorithmic-bias.png"
+    "img": "assets/imgs/algorithmic-bias.png",
+    "bibliography": [
+      "Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine Bias. There is software that is used across the county to predict future criminals. And it is biased against blacks. Retrieved from: https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
+      "Waardenburg, L., Sergeeva, A., & Huysman, M. (2018). Hotspots and blind spots: A case of predictive policing in practice. In Living with Monsters? Social Implications of Algorithmic Phenomena, Hybrid Agency, and the Performativity of Technology: IFIP WG 8.2 Working Conference on the Interaction of Information Systems and the Organization, IS&O 2018, San Francisco, CA, USA, December 11-12, 2018, Proceedings (pp. 96-109). Springer International Publishing.",
+      "Amoore, L. (2006). Biometric borders: Governing mobilities in the war on terror. Political Geography, 25 (3), 336-351, ISSN 0962-6298. https://doi.org/10.1016/j.polgeo.2006.02.001"
+    ],
+    "url": "https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/algorithmic-bias.yml",
+    "qr_img": "/qrcodes/card_4.png"
   },
   {
+    "card_number": 3,
+    "card_set": 1,
     "title_en": "Data",
     "title_fr": "Données",
     "description_en": "Raw information collected from our actions, devices, and environments. AI systems critically depend on massive amounts of data to function. But how data is collected, selected, and used is never neutral — it reflects power relations and can reinforce bias and inequality.",
     "description_fr": "Informations brutes collectées à partir de nos actions, de nos appareils et de notre environnement. Le fonctionnement des systèmes d'IA dépend de manière critique d'énormes quantités de données. Cependant, la manière dont les données sont collectées, sélectionnées et utilisées n'est jamais neutre : elle reflète les relations de pouvoir et peut renforcer les préjugés et les inégalités.",
-    "number": 3,
-    "img": "assets/imgs/data.png"
+    "img": "assets/imgs/data.png",
+    "bibliography": [
+      "Boyd, D. & Crawford, K. (2012). Critical Questions for Big Data : Provocations for a cultural, technological, and scholarly phenomenon. Information, Communication & Society, 15(5), 662‑679. https://doi.org/10.1080/1369118X.2012.678878",
+      "Kitchin, R., & Lauriault, T. (2014). Towards Critical Data Studies : Charting and Unpacking Data Assemblages and Their Work (SSRN Scholarly Paper 2474112). Social Science Research Network. https://papers.ssrn.com/abstract=2474112"
+    ],
+    "url": "https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/data.yml",
+    "qr_img": "/qrcodes/card_3.png"
   },
   {
+    "card_number": 5,
+    "card_set": 1,
     "title_en": "Disinformation",
     "title_fr": "Désinformation",
     "description_en": "Disinformation is the dissemination of false or inaccurate information with the aim of causing serious harm, manipulating public opinion and even influencing elections. AI can help generate and automate the quick spreading of false information disguised as real news on social media.",
     "description_fr": "La désinformation est la diffusion d'informations fausses ou inexactes dans le but de causer de préjudices, de manipuler l'opinion publique et même d'influencer les élections. L'IA peut contribuer à générer et à automatiser la diffusion rapide de fausses informations déguisées en vraies nouvelles sur les médias sociaux.",
-    "number": 5,
-    "img": "assets/imgs/disinformation.png"
+    "img": "assets/imgs/disinformation.png",
+    "bibliography": [
+      "Bontridder, N., & Poullet, Y. (2021). The role of artificial intelligence in disinformation. Data & Policy, 3, e32. https://doi.org/10.1017/dap.2021.20",
+      "Kertysova, K. (2018). Artificial Intelligence and Disinformation : How AI Changes the Way Disinformation is Produced, Disseminated, and Can Be Countered. Security and Human Rights. https://doi.org/10.1163/18750230-02901005",
+      "vVaccari, C., & Chadwick, A. (2020). Deepfakes and Disinformation : Exploring the Impact of Synthetic Political Video on Deception, Uncertainty, and Trust in News. Social Media + Society, 6(1), 2056305120903408. https://doi.org/10.1177/2056305120903408",
+      "Wu, L., Morstatter, F., Carley, K. M., & Liu, H. (2019). Misinformation in social media: definition, manipulation, and detection. ACM SIGKDD explorations newsletter, 21(2), 80-90.",
+      "Bennett, W. L., & Livingston, S. (2018). The disinformation order: Disruptive communication and the decline of democratic institutions. European journal of communication, 33(2), 122-139."
+    ],
+    "url": "https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/disinformation.yml",
+    "qr_img": "/qrcodes/card_5.png"
   },
   {
+    "card_number": 2,
+    "card_set": 1,
     "title_en": "Social Media",
     "title_fr": "Médias Sociaux",
     "description_en": "In 2024, over five billion people used social media platforms like Facebook, YouTube, Instagram, and TikTok. These platforms shape how people connect, interact, and get informed — while harvesting personal data and using AI to promote content that can reinforce bias, polarize opinions, and spread misinformation.",
     "description_fr": "En 2024, plus de cinq milliards de personnes utilisaient des plateformes de réseaux sociaux comme Facebook, YouTube, Instagram et TikTok. Ces plateformes façonnent la façon dont les gens se connectent, interagissent et s'informent, tout en collectant des données personnelles et en utilisant l'IA pour promouvoir des contenus susceptibles de renforcer les préjugés, de polariser les opinions et de propager la désinformation.",
-    "number": 2,
-    "img": "assets/imgs/social-media.png"
+    "img": "assets/imgs/social-media.png",
+    "bibliography": [
+      "https://www.statista.com/statistics/278414/number-of-worldwide-social-network-users/?__sso_cookie_checker=failed (CITER)",
+      "Hedderson, M. M., Bekelman, T. A., Li, M., Knapp, E. A., Palmore, M., Dong, Y., Elliott, A. J., Friedman, C., Galarce, M., Gilbert-Diamond, D., Glueck, D., Hockett, C. W., Lucchini, M., McDonald, J., Sauder, K., Zhu, Y., Karagas, M. R., Dabelea, D., Ferrara, A., & Environmental Influences on Child Health Outcomes Program. (2023). Trends in Screen Time Use Among Children During the COVID-19 Pandemic, July 2019 Through August 2021. JAMA Network Open, 6(2), e2256157. https://doi.org/10.1001/jamanetworkopen.2022.56157",
+      "Bhargava, V. R., & Velasquez, M. (2021). Ethics of the Attention Economy : The Problem of Social Media Addiction. Business Ethics Quarterly, 31(3), 321‑359. https://doi.org/10.1017/beq.2020.32"
+    ],
+    "url": "https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/social-media.yml",
+    "qr_img": "/qrcodes/card_2.png"
   }
 ]

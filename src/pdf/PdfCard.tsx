@@ -6,8 +6,8 @@ import { PdfCardBack } from "./PdfCardBack";
 type CardData = {
   title: string;
   description: string;
-  number: string;
-  setLabel: string;
+  number: number;
+  setLabel: number;
   url?: string;
   imagePath: string;
 };

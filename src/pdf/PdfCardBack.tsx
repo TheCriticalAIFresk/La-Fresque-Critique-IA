@@ -1,31 +1,21 @@
 // src/pdf/PdfCardBack.tsx
 import React from "react";
 import { View, Text, StyleSheet, Image } from "@react-pdf/renderer";
-import QRCode from "qrcode";
 
 type Props = {
   description: string;
-  number: string;
-  setLabel: string;
+  number: number;
+  setLabel: number;
   url?: string;
+  qrImage?: string;
 };
 
 export const PdfCardBack: React.FC<Props> = ({
   description,
   number,
   setLabel,
-  url,
+  qrImage,
 }) => {
-  const [qrImage, setQrImage] = React.useState<string | null>(null);
-
-  React.useEffect(() => {
-    if (url) {
-      QRCode.toDataURL(url)
-        .then(setQrImage)
-        .catch(() => {});
-    }
-  }, [url]);
-
   return (
     <View style={styles.card}>
       {/* Card number (top left) */}

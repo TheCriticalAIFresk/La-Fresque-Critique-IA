@@ -2,20 +2,19 @@
 "use client";
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card as CardType } from "@/schemas/card-schema";
+import { useLocale } from "next-intl";
 import Image from "next/image";
 
-type Props = {
-  title: string;
-  description: string;
-  number: number;
-  img: string;
-};
-
-export default function CardDisplay({ title, description, img }: Props) {
+export default function CardDisplay({ card }: { card: CardType }) {
+  const locale = useLocale();
+  const title = locale === "fr" ? card.title_fr : card.title_en;
+  const description =
+    locale === "fr" ? card.description_fr : card.description_en;
   return (
     <Card className="group relative w-full overflow-hidden border shadow-sm transition-all duration-200 h-80 p-2">
       <Image
-        src={`/${img}`} // Ensure this path is correct relative to /public
+        src={`/${card.img}`} // Ensure this path is correct relative to /public
         alt={title}
         fill
         className="object-cover"

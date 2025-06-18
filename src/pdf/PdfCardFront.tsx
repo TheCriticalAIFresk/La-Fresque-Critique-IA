@@ -1,10 +1,10 @@
 // src/pdf/PdfCardFront.tsx
 import React from "react";
-import { View, Text, StyleSheet, Image} from "@react-pdf/renderer";
+import { View, Text, StyleSheet, Image } from "@react-pdf/renderer";
 
 type Props = {
   title: string;
-  number: string;
+  number: number;
   imagePath: string;
 };
 
@@ -26,12 +26,12 @@ export const PdfCardFront: React.FC<Props> = ({ title, number, imagePath }) => {
   );
 };
 
-
 const styles = StyleSheet.create({
   card: {
     width: 280,
     height: 210,
     position: "relative",
+    border: "1pt solid black",
   },
   bgImage: {
     position: "absolute",
