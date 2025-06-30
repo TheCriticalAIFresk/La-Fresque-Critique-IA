@@ -1,0 +1,9 @@
+card_number: 33
+card_set: 5
+title_en: Capitalism
+description_en: Capitalism, an economic system based on private ownership of the means of production and profit-driven competition, has evolved in the digital era. GAFAM control data, digital infrastructures, and algorithms, monetizing user information while AI reshapes markets and labor for corporate profit maximization.
+title_fr: Capitalisme
+description_fr: Le capitalisme, un système économique fondé sur la propriété privée des moyens de production et la concurrence axée sur le profit, a évolué à l'ère numérique. Les GAFAM contrôlent les données, les infrastructures numériques et les algorithmes, monétisant les informations des utilisateurs tandis que l'IA remodèle les marchés et le travail pour maximiser les profits des entreprises.
+img: "imgs/capitalism.png"
+bibliography:
+  - "Verdegem, P. (2024). Dismantling AI capitalism : The commons as an alternative to the power concentration of Big Tech. AI & SOCIETY, 39(2), 727‑737. https://doi.org/10.1007/s00146-022-01437-8"

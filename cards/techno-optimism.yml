@@ -1,0 +1,9 @@
+card_number: 32
+card_set: 5
+title_en: Techno-Optimism
+description_en: An ideology that sees technological progress as the primary solution to global challenges, including the environmental crisis. Promoted by powerful actors like GAFAM, techno-optimism often overlooks social, political, and ecological complexities — reinforcing the idea that innovation alone can replace systemic change.
+title_fr: Techno-Optimisme
+description_fr: Idéologie qui considère le progrès technologique comme la principale solution aux défis mondiaux, notamment à la crise environnementale. Porté par des acteurs puissants comme les GAFAM, le techno-optimisme néglige souvent les complexités sociales, politiques et écologiques, renforçant l'idée que l'innovation seule peut remplacer les changements systémiques.
+img: "imgs/techno-optimism.png"
+bibliography:
+  - "Morozov, E. (2013). To save everything, click here: The folly of technological solutionism. PublicAffairs."

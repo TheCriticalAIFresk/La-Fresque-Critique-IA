@@ -1,0 +1,9 @@
+card_number: 9
+card_set: 1
+title_en: Internet of Things (IoT)
+description_en: The Internet of Things (IoT) refers to a network of connected devices and sensors that capture and exchange a wide variety of data. IoT sensors are becoming increasingly embedded into our everyday life.
+title_fr: Internet des Objets (IdO)
+description_fr: L'internet des objets (IdO) désigne un réseau d'appareils et de capteurs connectés qui capturent et échangent une grande variété de données. Les capteurs IdO sont de plus en plus intégrés dans notre vie quotidienne.
+img: "imgs/iot.png"
+bibliography:
+  - "Duhaime, É. [Rapport de recherche] L’économie numérique : Portrait et enjeux au Québec. (2022). IRÉC. https://irec.quebec/publications/rapports-de-recherche/leconomie-numerique-portrait-et-enjeux-au-quebec"

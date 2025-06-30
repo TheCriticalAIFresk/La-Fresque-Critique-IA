@@ -25,8 +25,8 @@ type Props = {
     description: string;
     number: number;
     setLabel: number;
-    imagePath: string;
-    url?: string;
+    imagePath?: string;
+    qrImage: string;
   }[];
 };
 

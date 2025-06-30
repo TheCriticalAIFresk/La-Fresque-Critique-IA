@@ -1,7 +1,6 @@
 card_number: 1
 card_set: 1
-url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/ai.yml
-img: assets/imgs/ai.png
+img: imgs/ai.png
 title_en: Artificial Intelligence
 description_en: A set of techniques that use large amounts of data to automate tasks or generate content. Recent AI systems, especially generative AI, demand growing energy, resources, and invisible human labor.
 title_fr: Intelligence Artificielle

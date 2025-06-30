@@ -8,8 +8,8 @@ type CardData = {
   description: string;
   number: number;
   setLabel: number;
-  url?: string;
-  imagePath: string;
+  imagePath?: string;
+  qrImage: string;
 };
 
 export const PdfCard: React.FC<{ card: CardData; side: "front" | "back" }> = ({
@@ -30,7 +30,7 @@ export const PdfCard: React.FC<{ card: CardData; side: "front" | "back" }> = ({
         description={card.description}
         number={card.number}
         setLabel={card.setLabel}
-        url={card.url}
+        qrImage={card.qrImage}
       />
     );
   }

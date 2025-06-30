@@ -1,7 +1,6 @@
 card_number: 2
 card_set: 1
-url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/social-media.yml
-img: assets/imgs/social-media.png
+img: imgs/social-media.png
 title_en: Social Media
 description_en: In 2024, over five billion people used social media platforms like Facebook, YouTube, Instagram, and TikTok. These platforms shape how people connect, interact, and get informed — while harvesting personal data and using AI to promote content that can reinforce bias, polarize opinions, and spread misinformation.
 title_fr: Médias Sociaux

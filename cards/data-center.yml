@@ -1,0 +1,12 @@
+card_number: 13
+card_set: 1
+title_en: Data Center
+description_en: Data centers are giant warehouses filled with servers that store and process data.They consume enormous amounts of electricity and require large quantities of water for cooling.
+title_fr: Centre de Données
+description_fr: Les centres de données sont des entrepôts géants remplis de serveurs qui stockent et traitent des données. Ils consomment d'énormes quantités d'électricité et nécessitent de grandes quantités d'eau pour leur refroidissement.
+img: "imgs/data-center.png"
+bibliography:
+  - "Lopez, F., & Diguet, C. (2023). Sous le feu numérique : Spatialités et énergie des data centers. MétisPresses. Retrieved from https://www.metispresses.ch/fr/sous-le-feu-numerique"
+  - "Shehabi, A., Smith, S.J., Hubbard, A., Newkirk, A., Lei, N., Siddik, M.A.B., Holecek, B., Koomey, J., Masanet, E., Sartor, D. 2024. 2024 United States Data Center Energy Usage Report. Lawrence Berkeley National Laboratory, Berkeley, California. LBNL-2001637"
+  - "Edwards, D., Cooper, Z. G. T., & Hogan, M. (2024). The making of critical data center studies. Convergence, 13548565231224157. https://doi.org/10.1177/13548565231224157"
+  - "Greene, D. (2022). Landlords of the internet : Big data and big real estate. Social Studies of Science, 52(6), 904‑927. https://doi.org/10.1177/03063127221124943"

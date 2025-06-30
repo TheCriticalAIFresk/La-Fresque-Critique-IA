@@ -1,39 +1,47 @@
 import React from "react";
 import ReactPDF from "@react-pdf/renderer";
+import fs from "fs";
 import path from "path";
+import os from "os";
+import QRCode from "qrcode";
 import { MyDocument } from "@/pdf/MyDocument";
-import type { CardWithQR } from "@/schemas/card-schema";
-import allCards from "@/data/cards.json";
+import type { Card } from "@/schemas/card-schema";
 import { Locale } from "@/i18n/routing";
-import { Readable } from "stream";
 
-// Helper to map and localize card fields
-const transformCards = (cards: CardWithQR[], lang: Locale) =>
-  cards.map((data) => ({
-    title: lang === "en" ? data.title_en : data.title_fr,
-    description: lang === "en" ? data.description_en : data.description_fr,
-    number: data.card_number,
-    setLabel: data.card_set,
-    imagePath: path.resolve(`public/${data.img}`),
-    url: data.url,
-    qrImage: data.qr_img,
-  }));
+// Step 1: Transform and localize cards
+const transformCards = async (cards: Card[], lang: Locale, tmpDir: string) => {
+  return Promise.all(
+    cards.map(async (data) => {
+      const url = `https://fresque-critique-ia.vercel.app/${lang}/card/${data.card_number}`;
+      const qrPath = path.join(tmpDir, `card_${data.card_number}.png`);
+      await QRCode.toFile(qrPath, url, { width: 256 });
 
-export const savePdf = async (lang: Locale, outputPath: string) => {
-  const cards = transformCards(allCards, lang);
-  await ReactPDF.render(<MyDocument cards={cards} />, outputPath);
+      return {
+        title: lang === "en" ? data.title_en : data.title_fr,
+        description: lang === "en" ? data.description_en : data.description_fr,
+        number: data.card_number,
+        setLabel: data.card_set,
+        imagePath: data.img ? path.resolve(`public/${data.img}`) : undefined,
+        qrImage: qrPath,
+      };
+    })
+  );
 };
 
-export const buildPdf = async (lang: Locale): Promise<Buffer> => {
-  const cards = transformCards(allCards, lang);
+export const savePdf = async (
+  lang: Locale,
+  outputPath: string,
+  allCards: Card[]
+) => {
+  const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), "pdf-qr-"));
 
-  const stream = await ReactPDF.renderToStream(<MyDocument cards={cards} />);
-
-  // Helper: convert stream to buffer
-  const chunks: Uint8Array[] = [];
-  for await (const chunk of stream as Readable) {
-    chunks.push(Buffer.from(chunk));
+  try {
+    const cards = (await transformCards(allCards, lang, tmpDir)).sort(
+      (a, b) => a.number - b.number
+    );
+    await ReactPDF.render(<MyDocument cards={cards} />, outputPath);
+  } finally {
+    // Clean up temp QR images
+    fs.rmSync(tmpDir, { recursive: true, force: true });
   }
-
-  return Buffer.concat(chunks);
 };

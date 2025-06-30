@@ -1,21 +1,57 @@
 [
   {
+    "card_number": 28,
+    "card_set": 3,
+    "title_en": "AI Divide",
+    "title_fr": "Fracture de l’IA",
+    "description_en": "Unequal access to AI infrastructure and training deepen global inequalities. A gap opens up between countries, groups and individuals who have access to the benefits of AI and those who suffer from its consequences and externalities.",
+    "description_fr": "L'inégalité d'accès à l'infrastructure et aux formations en matière d'IA aggrave les inégalités dans le monde. Un fossé se creuse entre les pays, les groupes et les individus qui ont accès aux avantages de l'IA et ceux qui souffrent de ses conséquences et de ses externalités.",
+    "img": "imgs/ai-divide.png",
+    "bibliography": [
+      "International Labour Organization. (2021). Mind the AI divide: Shaping a global perspective on the future of work. International Labour Organization. https://www.ilo.org/publications/major-publications/mind-ai-divide-shaping-global-perspective-future-work"
+    ]
+  },
+  {
+    "card_number": 20,
+    "card_set": 4,
+    "title_en": "AI Race",
+    "title_fr": "Course à l'IA",
+    "description_en": "Some countries and corporations are engaged in a fierce race to secure their technological, economic and military advantage in AI, investing massively in its infrastructures.This competition fuels a climate of urgency that often sidelines ethical considerations and responsible oversight.",
+    "description_fr": "Certains pays et entreprises se livrent à une course effrénée pour s'assurer leur avantage technologique, économique et militaire dans le domaine de l'IA, en investissant massivement dans ses infrastructures. Cette concurrence alimente un climat d'urgence qui met souvent de côté les considérations éthiques.",
+    "img": "imgs/ai-race.png",
+    "bibliography": [
+      "1. Cave, S., & ÓhÉigeartaigh, S. S. (2018, December). An AI race for strategic advantage: rhetoric and risks. In Proceedings of the 2018 AAAI/ACM Conference on AI, Ethics, and Society (pp. 36-40)."
+    ]
+  },
+  {
     "card_number": 1,
     "card_set": 1,
     "title_en": "Artificial Intelligence",
     "title_fr": "Intelligence Artificielle",
     "description_en": "A set of techniques that use large amounts of data to automate tasks or generate content. Recent AI systems, especially generative AI, demand growing energy, resources, and invisible human labor.",
     "description_fr": "Ensemble de techniques utilisant de grandes quantités de données pour automatiser des tâches ou générer du contenu. Les systèmes d'IA récents, notamment l'IA générative, nécessitent une énergie, des ressources et un travail humain invisible croissants.",
-    "img": "assets/imgs/ai.png",
+    "img": "imgs/ai.png",
     "bibliography": [
       "Dwivedi, Y. K., Hughes, L., Ismagilova, E., Aarts, G., Coombs, C., Crick, T., ... & Williams, M. D. (2021). Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy. International journal of information management, 57, 101994.",
       "Placani, A. (2024). Anthropomorphism in AI : Hype and fallacy. AI and Ethics, 4(3), 691‑698. https://doi.org/10.1007/s43681-024-00419-4",
       "Al-kfairy, M., Mustafa, D., Kshetri, N., Insiew, M., & Alfandi, O. (2024). Ethical Challenges and Solutions of Generative AI : An Interdisciplinary Perspective. Informatics, 11(3), Article 3. https://doi.org/10.3390/informatics11030058",
       "https://cartography-of-generative-ai.net/",
       "Raley, R., & Rhee, J. (2023). Critical AI : A Field in Formation. American Literature, 95(2), 185‑204. https://doi.org/10.1215/00029831-10575021"
-    ],
-    "url": "https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/ai.yml",
-    "qr_img": "/qrcodes/card_1.png"
+    ]
+  },
+  {
+    "card_number": 11,
+    "card_set": 1,
+    "title_en": "Algorithmic Amplification",
+    "title_fr": "Amplification Algorithmique",
+    "description_en": "On social media, AI-driven amplification algorithms increase the reach of some speech and content, and suppress others. What is promoted and becomes viral online is often sensational or emotionally charged content because it attracts more attention.",
+    "description_fr": "Sur les médias sociaux, les algorithmes d'amplification pilotés par l'IA augmentent la portée de certains discours et contenus, et en suppriment d'autres. Ce qui est promu et devient viral en ligne est souvent un contenu sensationnaliste ou chargé d'émotion parce qu'il attire davantage l'attention.",
+    "img": "imgs/algorithmic-amplification.png",
+    "bibliography": [
+      "Huszár, F., Ktena, S. I., O’Brien, C., Belli, L., Schlaikjer, A., & Hardt, M. (2021). Algorithmic amplification of politics on Twitter. Proceedings of the National Academy of Sciences, 119(1), e2025334119. https://doi.org/10.1073/pnas.2025334119",
+      "Kasy, M., & Abebe, R. (2021). Fairness, Equality, and Power in Algorithmic Decision-Making. Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency, 576‑586. https://doi.org/10.1145/3442188.3445919",
+      "Sîrbu, A., Pedreschi, D., Giannotti, F., & Kertész, J. (2019). Algorithmic bias amplifies opinion fragmentation and polarization : A bounded confidence model. PLOS ONE, 14(3), e0213246. https://doi.org/10.1371/journal.pone.0213246"
+    ]
   },
   {
     "card_number": 4,
@@ -24,14 +60,108 @@
     "title_fr": "Biais Algorithmiques",
     "description_en": "Algorithms can produce unfair or skewed outcomes that reflect biases in the training data or design choices. These biases can reproduce and even amplify existing forms of discrimination.",
     "description_fr": "Les algorithmes peuvent produire des résultats injustes ou faussés, reflétant des biais dans les données d'apprentissage ou des choix de conception. Ces biais peuvent reproduire, voire amplifier, des formes de discrimination existantes.",
-    "img": "assets/imgs/algorithmic-bias.png",
+    "img": "imgs/algorithmic-bias.png",
     "bibliography": [
       "Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine Bias. There is software that is used across the county to predict future criminals. And it is biased against blacks. Retrieved from: https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing",
       "Waardenburg, L., Sergeeva, A., & Huysman, M. (2018). Hotspots and blind spots: A case of predictive policing in practice. In Living with Monsters? Social Implications of Algorithmic Phenomena, Hybrid Agency, and the Performativity of Technology: IFIP WG 8.2 Working Conference on the Interaction of Information Systems and the Organization, IS&O 2018, San Francisco, CA, USA, December 11-12, 2018, Proceedings (pp. 96-109). Springer International Publishing.",
       "Amoore, L. (2006). Biometric borders: Governing mobilities in the war on terror. Political Geography, 25 (3), 336-351, ISSN 0962-6298. https://doi.org/10.1016/j.polgeo.2006.02.001"
-    ],
-    "url": "https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/algorithmic-bias.yml",
-    "qr_img": "/qrcodes/card_4.png"
+    ]
+  },
+  {
+    "card_number": 10,
+    "card_set": 2,
+    "title_en": "Attention Economy",
+    "title_fr": "Économie de l'Attention",
+    "description_en": "Big tech companies generate profits by keeping users engaged while feeding them a steady stream of targeted advertisements. Social media algorithms thus seek to maximize screen time through notifications, personalized content recommendations, and the amplification of sensational content.",
+    "description_fr": "Les GAFAMs génèrent des profits en maintenant l'attention des utilisateur·rices tout en les alimentant d'un flux constant de publicités ciblées. Les algorithmes des médias sociaux cherchent donc à maximiser le temps passé devant l'écran grâce à des notifications, des recommandations de contenu personnalisées et l'amplification de contenus sensationnalistes.",
+    "img": "imgs/attention-economy.png",
+    "bibliography": [
+      "Castro, C., & Pham, A. (2020). Is the Attention Economy Noxious? Philosophers’ Imprint, 20(17), 1‑13.",
+      "Bhargava, V. R., & Velasquez, M. (2021). Ethics of the Attention Economy : The Problem of Social Media Addiction. Business Ethics Quarterly, 31(3), 321‑359. https://doi.org/10.1017/beq.2020.32"
+    ]
+  },
+  {
+    "card_number": 19,
+    "card_set": 3,
+    "title_en": "Autonomous Weapon",
+    "title_fr": "Armes Autonomes",
+    "description_en": "Weapons systems that can identify and strike targets without direct human control. Enabled by AI and sensors, they raise serious ethical concerns — from biased targeting and lack of accountability to the automation of lethal force. These systems contribute to the global arms race, reinforcing or challenging military hegemony as states compete to maintain domination on the world stage.",
+    "description_fr": "Systèmes d’armes capables d’identifier et de frapper des cibles sans contrôle humain direct. Propulsés par l’IA et des capteurs, ils soulèvent de graves enjeux éthiques — du ciblage biaisé à l’absence de responsabilité, en passant par l’automatisation de la force létale. Ces systèmes participent à la course aux armements mondiale, en renforçant ou en contestant des logiques d’hégémonie militaire et de domination à l’échelle internationale.",
+    "img": "imgs/autonomous-weapon.png",
+    "bibliography": [
+      "Morgan, F. E., Boudreaux, B., Lohn, A. J., Ashby, M., Curriden, C., Klima, K., & Grossman, D. (2020). Military applications of artificial intelligence. Santa Monica: RAND Corporation.",
+      "Johnson, J. (2019). Artificial intelligence & future warfare: implications for international security. Defense & Security Analysis, 35(2), 147-169."
+    ]
+  },
+  {
+    "card_number": 33,
+    "card_set": 5,
+    "title_en": "Capitalism",
+    "title_fr": "Capitalisme",
+    "description_en": "Capitalism, an economic system based on private ownership of the means of production and profit-driven competition, has evolved in the digital era. GAFAM control data, digital infrastructures, and algorithms, monetizing user information while AI reshapes markets and labor for corporate profit maximization.",
+    "description_fr": "Le capitalisme, un système économique fondé sur la propriété privée des moyens de production et la concurrence axée sur le profit, a évolué à l'ère numérique. Les GAFAM contrôlent les données, les infrastructures numériques et les algorithmes, monétisant les informations des utilisateurs tandis que l'IA remodèle les marchés et le travail pour maximiser les profits des entreprises.",
+    "img": "imgs/capitalism.png",
+    "bibliography": [
+      "Verdegem, P. (2024). Dismantling AI capitalism : The commons as an alternative to the power concentration of Big Tech. AI & SOCIETY, 39(2), 727‑737. https://doi.org/10.1007/s00146-022-01437-8"
+    ]
+  },
+  {
+    "card_number": 34,
+    "card_set": 5,
+    "title_en": "Colonialism",
+    "title_fr": "Colonialisme",
+    "description_en": "Colonialism can be understood as an ongoing process of extraction and control, defined by a logic of racism, elimination, domination and dehumanization. Today, this logic extends to data and digital infrastructures, as AI systems depend on exploitative access to data, labor, and minerals—often from the Global South—reproducing global inequalities rooted in colonial histories.",
+    "description_fr": "Le colonialisme peut être compris comme un processus continu d'extraction et de contrôle, défini par une logique de racisme, d'élimination, de domination et de déshumanisation. Aujourd'hui, cette logique s'étend aux données et aux infrastructures numériques, car les systèmes d'IA dépendent de l'exploitation des données, de la main-d'œuvre et des minerais - souvent en provenance du Sud global - reproduisant les inégalités mondiales enracinées dans l'histoire coloniale.",
+    "img": "imgs/colonialism.png",
+    "bibliography": [
+      "Wolfe, P. (1999). Settler Colonialism (1re éd.). Continuum. https://www.perlego.com/book/806843/settler-colonialism-pdf",
+      "Gray, C. (2023). More than Extraction : Rethinking Data’s Colonial Political Economy. International Political Sociology, 17(2), olad007. https://doi.org/10.1093/ips/olad007",
+      "McGregor, D. (2017). From « Decolonized » to Reconciliation Research in Canada : Drawing from Indigenous Research Paradigms. ACME: An International Journal for Critical Geographies, 2018, 17(3): 810-831. https://digitalcommons.osgoode.yorku.ca/scholarly_works/2894"
+    ]
+  },
+  {
+    "card_number": 21,
+    "card_set": 2,
+    "title_en": "Data Annotation",
+    "title_fr": "Annotation des Données",
+    "description_en": "The process of labeling data so that AI systems can learn from it — for example, tagging images or rating text. Data annotation shapes how AI understands the world, but depends on large-scale manual work that remains largely invisible.",
+    "description_fr": "Le processus de labellisation des données pour permettre aux systèmes d’IA d’apprendre — par exemple, en étiquetant des images ou en évaluant des textes. L’annotation des données façonne la manière dont l’IA “comprend” le monde, mais repose sur un travail manuel à grande échelle qui reste en grande partie invisible.",
+    "img": "imgs/data-annotation.png",
+    "bibliography": [
+      "Gray, M. L., & Suri, S. (2019). Ghost work: How to stop Silicon Valley from building a new global underclass. Harper Business.",
+      "Tubaro, P., Casilli, A. A., & Coville, M. (2020). The trainer, the verifier, the imitator: Three ways in which human platform workers support artificial intelligence. Big Data & Society, 7(1), 2053951720919776.",
+      "Miceli, M., & Posada, J. (2022). The data-production dispositif. Proceedings of the ACM on human-computer interaction, 6(CSCW2), 1-37."
+    ]
+  },
+  {
+    "card_number": 13,
+    "card_set": 1,
+    "title_en": "Data Center",
+    "title_fr": "Centre de Données",
+    "description_en": "Data centers are giant warehouses filled with servers that store and process data.They consume enormous amounts of electricity and require large quantities of water for cooling.",
+    "description_fr": "Les centres de données sont des entrepôts géants remplis de serveurs qui stockent et traitent des données. Ils consomment d'énormes quantités d'électricité et nécessitent de grandes quantités d'eau pour leur refroidissement.",
+    "img": "imgs/data-center.png",
+    "bibliography": [
+      "Lopez, F., & Diguet, C. (2023). Sous le feu numérique : Spatialités et énergie des data centers. MétisPresses. Retrieved from https://www.metispresses.ch/fr/sous-le-feu-numerique",
+      "Shehabi, A., Smith, S.J., Hubbard, A., Newkirk, A., Lei, N., Siddik, M.A.B., Holecek, B., Koomey, J., Masanet, E., Sartor, D. 2024. 2024 United States Data Center Energy Usage Report. Lawrence Berkeley National Laboratory, Berkeley, California. LBNL-2001637",
+      "Edwards, D., Cooper, Z. G. T., & Hogan, M. (2024). The making of critical data center studies. Convergence, 13548565231224157. https://doi.org/10.1177/13548565231224157",
+      "Greene, D. (2022). Landlords of the internet : Big data and big real estate. Social Studies of Science, 52(6), 904‑927. https://doi.org/10.1177/03063127221124943"
+    ]
+  },
+  {
+    "card_number": 12,
+    "card_set": 1,
+    "title_en": "Data Extractivism",
+    "title_fr": "Extractivisme de la Donnée",
+    "description_en": "Data extractivism refers to the large-scale capture, appropriation and exploitation of user data - such as behaviours or preferences - by tech corporations, often without proper consent and appropriate privacy protocols.",
+    "description_fr": "L'extractivisme des données fait référence à la capture, à l'appropriation et à l'exploitation à grande échelle des données des utilisateur·rice·s - telles que les comportements ou les préférences - par les entreprises technologiques, souvent sans consentement approprié et sans protocoles de protection de la vie privée adéquats.",
+    "img": "imgs/data-extractivism.png",
+    "bibliography": [
+      "Transnational Institute. (2023). Digital capitalism is a mine, not a cloud. https://www.tni.org/en/article/digital-capitalism-is-a-mine-not-a-cloud​",
+      "Segura, M. S., & Waisbord, S. (2019). Between Data Capitalism and Data Citizenship. Television & New Media, 20(4), 412-419. https://doi.org/10.1177/1527476419834519 (Original work published 2019)",
+      "Thatcher, J., O’Sullivan, D., & Mahmoudi, D. (2016). Data colonialism through accumulation by dispossession: New metaphors for daily data. Environment and Planning D, 34(6), 990-1006. https://doi.org/10.1177/0263775816633195 (Original work published 2016)",
+      "Magalhães, J. C., & Couldry, N. (2021). Giving by Taking Away : Big Tech, Data Colonialism, and the Reconfiguration of Social Good. International Journal of Communication, 15(0), Article 0."
+    ]
   },
   {
     "card_number": 3,
@@ -40,13 +170,28 @@
     "title_fr": "Données",
     "description_en": "Raw information collected from our actions, devices, and environments. AI systems critically depend on massive amounts of data to function. But how data is collected, selected, and used is never neutral — it reflects power relations and can reinforce bias and inequality.",
     "description_fr": "Informations brutes collectées à partir de nos actions, de nos appareils et de notre environnement. Le fonctionnement des systèmes d'IA dépend de manière critique d'énormes quantités de données. Cependant, la manière dont les données sont collectées, sélectionnées et utilisées n'est jamais neutre : elle reflète les relations de pouvoir et peut renforcer les préjugés et les inégalités.",
-    "img": "assets/imgs/data.png",
+    "img": "imgs/data.png",
     "bibliography": [
       "Boyd, D. & Crawford, K. (2012). Critical Questions for Big Data : Provocations for a cultural, technological, and scholarly phenomenon. Information, Communication & Society, 15(5), 662‑679. https://doi.org/10.1080/1369118X.2012.678878",
       "Kitchin, R., & Lauriault, T. (2014). Towards Critical Data Studies : Charting and Unpacking Data Assemblages and Their Work (SSRN Scholarly Paper 2474112). Social Science Research Network. https://papers.ssrn.com/abstract=2474112"
-    ],
-    "url": "https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/data.yml",
-    "qr_img": "/qrcodes/card_3.png"
+    ]
+  },
+  {
+    "card_number": 6,
+    "card_set": 2,
+    "title_en": "Discriminations",
+    "title_fr": "Discriminations",
+    "description_en": "The use of AI in sensitive areas (justice, employment, health, security) can perpetuate and amplify systemic oppressions, exposing gender minorities, racialized people and other marginalized groups to various forms of exclusion.",
+    "description_fr": "L’usage de l’IA dans des domaines sensibles (justice, emploi, santé, sécurité) peut perpétuer et amplifier les discriminations systémiques, exposant minorités de genre, personnes racisées et autres groupes marginalisés à des formes d’exclusion.",
+    "img": "imgs/discriminations.jpg",
+    "bibliography": [
+      "Capraro, V., Lentsch, A., Acemoglu, D., Akgun, S., Akhmedova, A., Bilancini, E., Bonnefon, J.-F., Brañas-Garza, P., Butera, L., Douglas, K. M., Everett, J. A. C., Gigerenzer, G., Greenhow, C., Hashimoto, D. A., Holt-Lunstad, J., Jetten, J., Johnson, S., Kunz, W. H., Longoni, C., … Viale, R. (2024). The impact of generative artificial intelligence on socioeconomic inequalities and policy making. PNAS Nexus, 3(6), page 191. https://doi.org/10.1093/pnasnexus/pgae191",
+      "Valdivia, A., & Tazzioli, M. (2023). Datafication Genealogies beyond Algorithmic Fairness : Making Up Racialised Subjects. Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency, 840‑850. https://doi.org/10.1145/3593013.3594047",
+      "De Roock, R. S. (2024). To Become an Object Among Objects : Generative Artificial “Intelligence,” Writing, and Linguistic White Supremacy. Reading Research Quarterly, 59(4), 590‑608. https://doi.org/10.1002/rrq.569",
+      "Amaro, Ramon. 2022. The Black Technical Object: On Machine Learning and the Aspiration of Black Being. Berlin: Sternberg Press.",
+      "Eubanks, Virginia. 2017. Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor. New York: St. Martin’s Press.",
+      "Ovalle, A., Subramonian, A., Gautam, V., Gee, G., & Chang, K.-W. (2023). Factoring the Matrix of Domination : A Critical Review and Reimagination of Intersectionality in AI Fairness (arXiv:2303.17555). arXiv. https://doi.org/10.48550/arXiv.2303.17555"
+    ]
   },
   {
     "card_number": 5,
@@ -55,16 +200,204 @@
     "title_fr": "Désinformation",
     "description_en": "Disinformation is the dissemination of false or inaccurate information with the aim of causing serious harm, manipulating public opinion and even influencing elections. AI can help generate and automate the quick spreading of false information disguised as real news on social media.",
     "description_fr": "La désinformation est la diffusion d'informations fausses ou inexactes dans le but de causer de préjudices, de manipuler l'opinion publique et même d'influencer les élections. L'IA peut contribuer à générer et à automatiser la diffusion rapide de fausses informations déguisées en vraies nouvelles sur les médias sociaux.",
-    "img": "assets/imgs/disinformation.png",
+    "img": "imgs/disinformation.png",
     "bibliography": [
       "Bontridder, N., & Poullet, Y. (2021). The role of artificial intelligence in disinformation. Data & Policy, 3, e32. https://doi.org/10.1017/dap.2021.20",
       "Kertysova, K. (2018). Artificial Intelligence and Disinformation : How AI Changes the Way Disinformation is Produced, Disseminated, and Can Be Countered. Security and Human Rights. https://doi.org/10.1163/18750230-02901005",
       "vVaccari, C., & Chadwick, A. (2020). Deepfakes and Disinformation : Exploring the Impact of Synthetic Political Video on Deception, Uncertainty, and Trust in News. Social Media + Society, 6(1), 2056305120903408. https://doi.org/10.1177/2056305120903408",
       "Wu, L., Morstatter, F., Carley, K. M., & Liu, H. (2019). Misinformation in social media: definition, manipulation, and detection. ACM SIGKDD explorations newsletter, 21(2), 80-90.",
       "Bennett, W. L., & Livingston, S. (2018). The disinformation order: Disruptive communication and the decline of democratic institutions. European journal of communication, 33(2), 122-139."
-    ],
-    "url": "https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/disinformation.yml",
-    "qr_img": "/qrcodes/card_5.png"
+    ]
+  },
+  {
+    "card_number": 16,
+    "card_set": 2,
+    "title_en": "Energy consumption",
+    "title_fr": "Consommation Énergétique",
+    "description_en": "Data center electricity consumption, often sourced from fossil fuels, is growing due to cloud and AI-service demand.",
+    "description_fr": "La consommation d'électricité des centres de données, souvent issue de combustibles fossiles, augmente en raison de la demande de services de cloud et de services d'IA.",
+    "img": "imgs/energy-consumption.png",
+    "bibliography": [
+      "International Energy Agency. (2021). Global energy review: CO₂ emissions in 2021. https://www.iea.org/reports/global-energy-review-co2-emissions-in-2021",
+      "Shehabi, A., Smith, S.J., Hubbard, A., Newkirk, A., Lei, N., Siddik, M.A.B., Holecek, B., Koomey, J., Masanet, E., Sartor, D. 2024. 2024 United States Data Center Energy Usage Report. Lawrence Berkeley National Laboratory, Berkeley, California. LBNL-2001637"
+    ]
+  },
+  {
+    "card_number": 18,
+    "card_set": 4,
+    "title_en": "Environmental Damage",
+    "title_fr": "Dommages Environnementaux",
+    "description_en": "AI’s rapid expansion increases pollution, energy use, and electronic waste. While AI can help track climate change, its own footprint is often overlooked and is not made accessible by tech companies.",
+    "description_fr": "L'expansion rapide de l'IA accroît la pollution, la consommation d'énergie et les déchets électroniques. Si l'IA peut contribuer au suivi du changement climatique, sa propre empreinte est souvent négligée et n'est pas rendue accessible par les entreprises technologiques.",
+    "img": "imgs/environmental-damage.png",
+    "bibliography": [
+      "Luccioni AS, Hernandez-Garcia A (2023) Counting carbon: A survey of factors influencing the emissions of machine learning. arXiv:2302.08476v1. Available at: https://arxiv.org/pdf/2302.08476.pdf",
+      "Crawford K (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. New Haven, CT: Yale University Press."
+    ]
+  },
+  {
+    "card_number": 31,
+    "card_set": 3,
+    "title_en": "E-Waste",
+    "title_fr": "Déchets Numériques",
+    "description_en": "AI, particularly generative AI, accelerates the material obsolescence of computing equipment and generates electronic waste that is difficult to recycle. The outsourcing of its management exacerbates environmental inequalities and exposes populations—especially in the Global South—to health risks.",
+    "description_fr": "L'IA, en particulier l'IA générative, accélère l'obsolescence matérielle des équipements informatiques et génère des déchets électroniques difficiles à recycler. L'externalisation de leur gestion exacerbe les inégalités environnementales et expose les populations, notamment celles du Sud Global, à des risques sanitaires.",
+    "img": "imgs/ewaste.png",
+    "bibliography": [
+      "Wang, P., Zhang, LY., Tzachor, A. et al. E-waste challenges of generative artificial intelligence. Nat Comput Sci 4, 818–823 (2024). https://doi.org/10.1038/s43588-024-00712-6",
+      "Crawford K (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. New Haven, CT: Yale University Press.",
+      "Valdivia, A. (s. d.). The supply chain capitalism of AI : A call to (re)think algorithmic harms and resistance through environmental lens. Information, Communication & Society, 0(0), 1‑17. https://doi.org/10.1080/1369118X.2024.2420021"
+    ]
+  },
+  {
+    "card_number": 7,
+    "card_set": 3,
+    "title_en": "GAFAM",
+    "title_fr": "GAFAM",
+    "description_en": "Tech giants like Google, Apple, Facebook (Meta), Amazon, and Microsoft control AI research, cloud computing, and massive datasets, influencing economies, politics, and privacy worldwide.",
+    "description_fr": "Les géants de la technologie comme Google, Apple, Facebook (Meta), Amazon et Microsoft contrôlent la recherche sur l'IA, le « cloud computing » et d'énormes ensembles de données, influençant les économies, la politique et la vie privée dans le monde entier.",
+    "img": "imgs/gafam.png",
+    "bibliography": [
+      "Moore, M. Tambini, D. 2018. Digital Dominance The Power of Google, Amazon, Facebook, and Apple. Oxford University Press."
+    ]
+  },
+  {
+    "card_number": 23,
+    "card_set": 2,
+    "title_en": "Ghost Workers",
+    "title_fr": "Travailleur·se·s Fantômes",
+    "description_en": "Behind AI automation are underpaid human workers who label data, moderate content, and fix AI mistakes. Mostly coming from countries located in the Global South, these \"ghost workers\" face poor conditions, low wages, and job insecurity.",
+    "description_fr": "Derrière l'automatisation de l'IA se cachent des travailleur·se·s humains sous-payés qui étiquettent les données, modèrent le contenu et corrigent les erreurs de l'IA. Originaires pour la plupart de pays du Sud, ces \"travailleur·se·s fantômes\" sont confrontés à de mauvaises conditions, à de faibles salaires et à l'insécurité de l'emploi.",
+    "img": "imgs/ghost-workers.png",
+    "bibliography": [
+      "Raval, N. (2019). Automating informality: On AI and labour in the global South. Global Information Society Watch. Retrieved from https://giswatch.org/node/6202",
+      "Crawford K (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. New Haven, CT: Yale University Press. (Chapter 2)",
+      "Casilli, A. En attendant les robots. Enquête sur le travail du clic, Paris, Seuil, 2019",
+      "Gray, M. L., & Suri, S. (2019). Ghost work: How to stop Silicon Valley from building a new global underclass. Harper Business."
+    ]
+  },
+  {
+    "card_number": 22,
+    "card_set": 2,
+    "title_en": "Hardware Manufacturing",
+    "title_fr": "Fabrication des Équipements Informatique (Hardware)",
+    "description_en": "AI requires physical infrastructure -microchips, servers, and sensors - produced in complex and opaque global supply chains, often relying on exploited labor and environmentally harmful mining.",
+    "description_fr": "L'IA nécessite une infrastructure physique - micropuces, serveurs et capteurs - produite dans des chaînes d'approvisionnement mondiales complexes et opaques, qui font souvent appel à une main-d'œuvre exploitée et à des activités minières néfastes pour l'environnement.",
+    "img": "imgs/hardware-manufacturing.png",
+    "bibliography": [
+      "Valdivia, A. (2024). The supply chain capitalism of AI: a call to (re)think algorithmic harms and resistance through environmental lens. Information, Communication & Society, 1–17. https://doi.org/10.1080/1369118X.2024.2420021",
+      "Nayar, J. (2021). Not so “green” technology: the complicated legacy of rare earth mining. Harvard International Review, 12.",
+      "Crawford, K., & Joler, V. (2018, September). Anatomy of an AI System."
+    ]
+  },
+  {
+    "card_number": 29,
+    "card_set": 4,
+    "title_en": "Human Rights Violation",
+    "title_fr": "Violation des Droits Humains",
+    "description_en": "AI systems pose significant human rights risks all along their supply chain: exploitation, privacy violations, discrimination, threats to democratic processes and infringements on human dignity and autonomy.",
+    "description_fr": "Les systèmes d'IA présentent des risques importants pour les droits humains tout au long de leur chaîne d'approvisionnement : exploitation, violations de la vie privée, discrimination, menaces pour les processus démocratiques et atteintes à la dignité humaine et à l'autonomie.",
+    "img": "imgs/human-rights-violation.png",
+    "bibliography": [
+      "Now, A. (2018). Human rights in the age of artificial intelligence. Access Now.",
+      "Rodrigues, R. (2020). Legal and human rights issues of AI: Gaps, challenges and vulnerabilities. Journal of Responsible Technology, 4, 100005.",
+      "Bacciarelli, A. (2023). The Toronto Declaration: Protecting the right to equality and non-discrimination in machine learning systems."
+    ]
+  },
+  {
+    "card_number": 27,
+    "card_set": 4,
+    "title_en": "Information Warfare",
+    "title_fr": "Guerre Informationnelle",
+    "description_en": "The strategic use of media, narratives, and digital platforms to influence opinions, shape perceptions, and advance political or economic interests. From propaganda to algorithmic manipulation, states and corporations use AI and social media to wage information warfare — often targeting marginalized groups, fueling polarization, and reinforcing global power imbalances.",
+    "description_fr": "Utilisation stratégique des médias, des récits et des plateformes numériques pour influencer les opinions, façonner les perceptions et promouvoir des intérêts politiques ou économiques. De la propagande à la manipulation algorithmique, les États et les entreprises utilisent l'IA et les réseaux sociaux pour mener une guerre de l'information, ciblant souvent les groupes marginalisés, alimentant la polarisation et renforçant les déséquilibres de pouvoir mondiaux.",
+    "img": "imgs/information-warfare.png",
+    "bibliography": [
+      "Hunter, L. Y., Albert, C. D., Rutland, J., Topping, K., & Hennigan, C. (2024). Artificial intelligence and information warfare in major power states: how the US, China, and Russia are using artificial intelligence in their information warfare and influence operations. Defense & Security Analysis, 40(2), 235–269. https://doi.org/10.1080/14751798.2024.2321736",
+      "Bradshaw, S., & Howard, P. N. (2019). The global disinformation order: 2019 global inventory of organised social media manipulation.",
+      "Woolley, S. C., & Howard, P. N. (Eds.). (2018). Computational propaganda: Political parties, politicians, and political manipulation on social media. Oxford University Press."
+    ]
+  },
+  {
+    "card_number": 9,
+    "card_set": 1,
+    "title_en": "Internet of Things (IoT)",
+    "title_fr": "Internet des Objets (IdO)",
+    "description_en": "The Internet of Things (IoT) refers to a network of connected devices and sensors that capture and exchange a wide variety of data. IoT sensors are becoming increasingly embedded into our everyday life.",
+    "description_fr": "L'internet des objets (IdO) désigne un réseau d'appareils et de capteurs connectés qui capturent et échangent une grande variété de données. Les capteurs IdO sont de plus en plus intégrés dans notre vie quotidienne.",
+    "img": "imgs/iot.png",
+    "bibliography": [
+      "Duhaime, É. [Rapport de recherche] L’économie numérique : Portrait et enjeux au Québec. (2022). IRÉC. https://irec.quebec/publications/rapports-de-recherche/leconomie-numerique-portrait-et-enjeux-au-quebec"
+    ]
+  },
+  {
+    "card_number": 17,
+    "card_set": 3,
+    "title_en": "Mental Health",
+    "title_fr": "Santé Mentale",
+    "description_en": "Various studies have reported links between social media use and increased levels of anxiety, stress, depression, and loneliness.",
+    "description_fr": "Diverses études ont établi un lien entre l'utilisation des médias sociaux et l'augmentation des niveaux d'anxiété, de stress, de dépression et de solitude.",
+    "img": "imgs/mental-health.png",
+    "bibliography": [
+      "Bhat, S. (2017). Effects of social media on mental health: A review. ResearchGate. https://www.researchgate.net/profile/Shabir-Bhat/publication/323018957_Effects_of_Social_Media_on_Mental_Health_A_Review/links/5a7c9e97aca272341aeb7472/Effects-of-Social-Media-on-Mental-Health-A-Review.pdf",
+      "Hou, Y., Xiong, D., Jiang, T., Song, L., & Wang, Q. (2019). Social media addiction: Its impact, mediation, and intervention. Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 13(1), Article 4. https://doi.org/10.5817/CP2019-1-4"
+    ]
+  },
+  {
+    "card_number": 14,
+    "card_set": 3,
+    "title_en": "Polarization",
+    "title_fr": "Polarisation",
+    "description_en": "AI-fueled online environments push people into ideological bubbles, amplifying extreme views and making dialogue between opposing groups more difficult, deepening divisions in society.",
+    "description_fr": "Les environnements en ligne nourris par l'IA poussent les gens dans des bulles idéologiques, amplifiant les opinions extrêmes et rendant le dialogue entre les groupes opposés plus difficile, ce qui aggrave les divisions au sein de la société.",
+    "img": "imgs/polarization.png",
+    "bibliography": [
+      "Huszár, F., Ktena, S. I., O’Brien, C., Belli, L., Schlaikjer, A., & Hardt, M. (2022). Algorithmic amplification of politics on Twitter. Proceedings of the National Academy of Sciences, 119(1), e2025334119. https://doi.org/10.1073/pnas.2025334119",
+      "Sîrbu, A., Pedreschi, D., Giannotti, F., & Kertész, J. (2019). Algorithmic bias amplifies opinion fragmentation and polarization : A bounded confidence model. PLOS ONE, 14(3), e0213246. https://doi.org/10.1371/journal.pone.0213246",
+      "Kubin, E., & Von Sikorski, C. (2021). The role of (social) media in political polarization: a systematic review. Annals of the International Communication Association, 45(3), 188-206."
+    ]
+  },
+  {
+    "card_number": 30,
+    "card_set": 4,
+    "title_en": "Political Instability",
+    "title_fr": "Instabilité Politique",
+    "description_en": "A situation where governments or institutions face weakened authority, social unrest, or conflict. Political instability can be fueled by climate change, economic inequality, forced migration, or the spread of misinformation — and can be worsened by technologies that deepen polarization or undermine trust in democratic systems.",
+    "description_fr": "Une situation dans laquelle les gouvernements ou les institutions sont confrontés à un affaiblissement de leur autorité, à des troubles sociaux ou à des conflits. L'instabilité politique peut être alimentée par le changement climatique, les inégalités économiques, les migrations forcées ou la propagation de fausses informations, et peut être aggravée par des technologies qui accentuent la polarisation ou sapent la confiance dans les systèmes démocratiques.",
+    "img": "imgs/political-instability.png",
+    "bibliography": [
+      "Schroeder, R. (2019). Digital media and the entrenchment of right-wing populist agendas. Social Media+ Society, 5(4), 2056305119885328.",
+      "Lorenz-Spreen, P., Oswald, L., Lewandowsky, S., & Hertwig, R. (2023). A systematic review of worldwide causal and correlational evidence on digital media and democracy. Nature human behaviour, 7(1), 74-101.",
+      "Bennett, W. L., & Livingston, S. (2018). The disinformation order: Disruptive communication and the decline of democratic institutions. European journal of communication, 33(2), 122-139."
+    ]
+  },
+  {
+    "card_number": 8,
+    "card_set": 2,
+    "title_en": "Recommandation Algorithms",
+    "title_fr": "Algorithmes de Recommandation",
+    "description_en": "Algorithms that suggest content, products, or connections based on user data and behavior. Widely used on social media, streaming, and shopping platforms, they shape what people see and consume — often reinforcing existing preferences, biases, and filter bubbles.",
+    "description_fr": "Algorithmes suggérant du contenu, des produits ou des connexions en fonction des données et du comportement des utilisateurs. Largement utilisés sur les réseaux sociaux, le streaming et les plateformes d'achat, ils façonnent ce que les gens voient et consomment, renforçant souvent les préférences, les préjugés et les bulles de filtres existantes.",
+    "img": "imgs/recommendation-algorithms.png",
+    "bibliography": [
+      "Arvind Narayanan, Understanding Social Media Recommendation Algorithms, 23-01 Knight First Amend. Inst. (Mar. 9, 2023), https://knightcolumbia.org/content/understanding-social-media-recommendation-algorithms [https://perma.cc/F3NP-FEQX].",
+      "Whittaker, J., Looney, S., Reed, A., & Votta, F. (2021). Recommender systems and the amplification of extremist content. Internet Policy Review, 10(2). https://doi.org/10.14763/2021.2.1565",
+      "Chan, A., Salganik, R., Markelius, A., Pang, C., Rajkumar, N., Krasheninnikov, D., ... & Maharaj, T. (2023, June). Harms from increasingly agentic algorithmic systems. In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (pp. 651-666).",
+      "Pathak, R., Spezzano, F., & Pera, M. S. (2023). Understanding the contribution of recommendation algorithms on misinformation recommendation and misinformation dissemination on social networks. ACM Transactions on the Web, 17(4), 1-26."
+    ]
+  },
+  {
+    "card_number": 24,
+    "card_set": 3,
+    "title_en": "Resource Extraction",
+    "title_fr": "Extraction de Ressources",
+    "description_en": "Digital hardware are composed of a wide variety of metals like copper, lithium and cobalt.These minerals must be extracted from the earth's crust, sometimes under inhumane working conditions for the miners and refined through extremely polluting processes.",
+    "description_fr": "Les équipements informatiques sont composés d'une grande variété de métaux tels que le cuivre, le lithium et le cobalt. Ces minéraux doivent être extraits de la croûte terrestre, parfois dans des conditions de travail inhumaines pour les mineur·ses, et raffinés au moyen de procédés extrêmement polluants.",
+    "img": "imgs/resource-extraction.png",
+    "bibliography": [
+      "Amnesty International. (2016). \"This is what We Die For\": Human Rights Abuses in the Democratic Republic of the Congo Power the Global Trade in Cobalt. Amnesty International.",
+      "Crawford, K. (2021). The atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press."
+    ]
   },
   {
     "card_number": 2,
@@ -73,13 +406,62 @@
     "title_fr": "Médias Sociaux",
     "description_en": "In 2024, over five billion people used social media platforms like Facebook, YouTube, Instagram, and TikTok. These platforms shape how people connect, interact, and get informed — while harvesting personal data and using AI to promote content that can reinforce bias, polarize opinions, and spread misinformation.",
     "description_fr": "En 2024, plus de cinq milliards de personnes utilisaient des plateformes de réseaux sociaux comme Facebook, YouTube, Instagram et TikTok. Ces plateformes façonnent la façon dont les gens se connectent, interagissent et s'informent, tout en collectant des données personnelles et en utilisant l'IA pour promouvoir des contenus susceptibles de renforcer les préjugés, de polariser les opinions et de propager la désinformation.",
-    "img": "assets/imgs/social-media.png",
+    "img": "imgs/social-media.png",
     "bibliography": [
       "https://www.statista.com/statistics/278414/number-of-worldwide-social-network-users/?__sso_cookie_checker=failed (CITER)",
       "Hedderson, M. M., Bekelman, T. A., Li, M., Knapp, E. A., Palmore, M., Dong, Y., Elliott, A. J., Friedman, C., Galarce, M., Gilbert-Diamond, D., Glueck, D., Hockett, C. W., Lucchini, M., McDonald, J., Sauder, K., Zhu, Y., Karagas, M. R., Dabelea, D., Ferrara, A., & Environmental Influences on Child Health Outcomes Program. (2023). Trends in Screen Time Use Among Children During the COVID-19 Pandemic, July 2019 Through August 2021. JAMA Network Open, 6(2), e2256157. https://doi.org/10.1001/jamanetworkopen.2022.56157",
       "Bhargava, V. R., & Velasquez, M. (2021). Ethics of the Attention Economy : The Problem of Social Media Addiction. Business Ethics Quarterly, 31(3), 321‑359. https://doi.org/10.1017/beq.2020.32"
-    ],
-    "url": "https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/social-media.yml",
-    "qr_img": "/qrcodes/card_2.png"
+    ]
+  },
+  {
+    "card_number": 15,
+    "card_set": 3,
+    "title_en": "Surveillance",
+    "title_fr": "Surveillance",
+    "description_en": "AI allows governments and corporations to \"see\" across the large amount of data they capture. It also automate surveillance processes, through computer vision and facial recognition.",
+    "description_fr": "L'IA permet aux gouvernements et aux entreprises de « voir » à travers la grande quantité de données qu'ils collectent. Elle automatise également les processus de surveillance, grâce à la vision assistée par ordinateur et la reconnaissance faciale.",
+    "img": "imgs/surveillance.png",
+    "bibliography": [
+      "Zuboff, S. (2023). The age of surveillance capitalism. In Social theory re-wired (pp. 203-213). Routledge.",
+      "Murray, M. (2022). The infrastructures of security: Technologies of risk management in Johannesburg. University of Michigan Press.",
+      "Byler, D. (2021). Terror capitalism: Uyghur dispossession and masculinity in a Chinese city. Duke University Press."
+    ]
+  },
+  {
+    "card_number": 32,
+    "card_set": 5,
+    "title_en": "Techno-Optimism",
+    "title_fr": "Techno-Optimisme",
+    "description_en": "An ideology that sees technological progress as the primary solution to global challenges, including the environmental crisis. Promoted by powerful actors like GAFAM, techno-optimism often overlooks social, political, and ecological complexities — reinforcing the idea that innovation alone can replace systemic change.",
+    "description_fr": "Idéologie qui considère le progrès technologique comme la principale solution aux défis mondiaux, notamment à la crise environnementale. Porté par des acteurs puissants comme les GAFAM, le techno-optimisme néglige souvent les complexités sociales, politiques et écologiques, renforçant l'idée que l'innovation seule peut remplacer les changements systémiques.",
+    "img": "imgs/techno-optimism.png",
+    "bibliography": [
+      "Morozov, E. (2013). To save everything, click here: The folly of technological solutionism. PublicAffairs."
+    ]
+  },
+  {
+    "card_number": 25,
+    "card_set": 4,
+    "title_en": "War",
+    "title_fr": "Guerres",
+    "description_en": "AI is reshaping global power struggles as it is used in cyberattacks, surveillance, and military operations. Control over AI research, data, and semiconductor supply chains fuels tensions between major powers.",
+    "description_fr": "L'IA remodèle les luttes de pouvoir à l'échelle mondiale à mesure qu'elle est utilisée dans les cyberattaques, la surveillance et les opérations militaires. Le contrôle de la recherche sur l'IA, des données et des chaînes d'approvisionnement en semi-conducteurs alimente les tensions entre les grandes puissances.",
+    "img": "imgs/war.png",
+    "bibliography": [
+      "Johnson, J. (2019). Artificial intelligence & future warfare: implications for international security. Defense & Security Analysis, 35(2), 147-169."
+    ]
+  },
+  {
+    "card_number": 26,
+    "card_set": 3,
+    "title_en": "Water Consumption",
+    "title_fr": "Consommation d'Eau",
+    "description_en": "Data centers need massive amounts of water to cool servers, contributing to water shortages in already vulnerable regions.",
+    "description_fr": "Les centres de données ont besoin de quantités massives d'eau pour refroidir les serveurs, ce qui contribue aux pénuries d'eau dans des régions déjà vulnérables.",
+    "img": "imgs/water-consumption.png",
+    "bibliography": [
+      "Hogan, M. (2015). Data flows and water woes: The Utah Data Center. Big Data & Society, 2(2). https://doi.org/10.1177/2053951715592429",
+      "Li P, Yang J, Islam MA, et al. (2023) Making AI less ‘thirsty’: Uncovering and addressing the secret water footprints of AI models. arXiv:2304.03271v1. Available at: https://arxiv.org/pdf/2304.03271.pdf"
+    ]
   }
 ]

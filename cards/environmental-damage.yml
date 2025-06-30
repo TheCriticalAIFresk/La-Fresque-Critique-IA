@@ -1,0 +1,10 @@
+card_number: 18
+card_set: 4
+title_en: Environmental Damage
+description_en: AI’s rapid expansion increases pollution, energy use, and electronic waste. While AI can help track climate change, its own footprint is often overlooked and is not made accessible by tech companies.
+title_fr: Dommages Environnementaux
+description_fr: L'expansion rapide de l'IA accroît la pollution, la consommation d'énergie et les déchets électroniques. Si l'IA peut contribuer au suivi du changement climatique, sa propre empreinte est souvent négligée et n'est pas rendue accessible par les entreprises technologiques.
+img: "imgs/environmental-damage.png"
+bibliography:
+  - "Luccioni AS, Hernandez-Garcia A (2023) Counting carbon: A survey of factors influencing the emissions of machine learning. arXiv:2302.08476v1. Available at: https://arxiv.org/pdf/2302.08476.pdf"
+  - "Crawford K (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. New Haven, CT: Yale University Press."

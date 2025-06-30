@@ -1,0 +1,9 @@
+card_number: 7
+card_set: 3
+title_en: GAFAM
+description_en: Tech giants like Google, Apple, Facebook (Meta), Amazon, and Microsoft control AI research, cloud computing, and massive datasets, influencing economies, politics, and privacy worldwide.
+title_fr: GAFAM
+description_fr: Les géants de la technologie comme Google, Apple, Facebook (Meta), Amazon et Microsoft contrôlent la recherche sur l'IA, le « cloud computing » et d'énormes ensembles de données, influençant les économies, la politique et la vie privée dans le monde entier.
+img: "imgs/gafam.png"
+bibliography:
+  - "Moore, M. Tambini, D. 2018. Digital Dominance The Power of Google, Amazon, Facebook, and Apple. Oxford University Press."

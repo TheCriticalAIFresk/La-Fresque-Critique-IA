@@ -5,13 +5,13 @@ import { View, Text, StyleSheet, Image } from "@react-pdf/renderer";
 type Props = {
   title: string;
   number: number;
-  imagePath: string;
+  imagePath?: string;
 };
 
 export const PdfCardFront: React.FC<Props> = ({ title, number, imagePath }) => {
   return (
     <View style={styles.card}>
-      <Image src={imagePath} style={styles.bgImage} />
+      {imagePath && <Image src={imagePath} style={styles.bgImage} />}
 
       {/* Title Overlay */}
       <View style={styles.titleBox}>

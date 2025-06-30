@@ -1,0 +1,10 @@
+card_number: 24
+card_set: 3
+title_en: Resource Extraction
+description_en: Digital hardware are composed of a wide variety of metals like copper, lithium and cobalt.These minerals must be extracted from the earth's crust, sometimes under inhumane working conditions for the miners and refined through extremely polluting processes.
+title_fr: Extraction de Ressources
+description_fr: Les équipements informatiques sont composés d'une grande variété de métaux tels que le cuivre, le lithium et le cobalt. Ces minéraux doivent être extraits de la croûte terrestre, parfois dans des conditions de travail inhumaines pour les mineur·ses, et raffinés au moyen de procédés extrêmement polluants.
+img: "imgs/resource-extraction.png"
+bibliography:
+  - 'Amnesty International. (2016). "This is what We Die For": Human Rights Abuses in the Democratic Republic of the Congo Power the Global Trade in Cobalt. Amnesty International.'
+  - "Crawford, K. (2021). The atlas of AI: Power, politics, and the planetary costs of artificial intelligence. Yale University Press."

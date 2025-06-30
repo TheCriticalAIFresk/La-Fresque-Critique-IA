@@ -1,7 +1,6 @@
 card_number: 3
 card_set: 1
-url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/data.yml
-img: assets/imgs/data.png
+img: imgs/data.png
 title_en: Data
 description_en: Raw information collected from our actions, devices, and environments. AI systems critically depend on massive amounts of data to function. But how data is collected, selected, and used is never neutral — it reflects power relations and can reinforce bias and inequality.
 title_fr: Données

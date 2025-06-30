@@ -1,0 +1,9 @@
+card_number: 25
+card_set: 4
+title_en: War
+description_en: AI is reshaping global power struggles as it is used in cyberattacks, surveillance, and military operations. Control over AI research, data, and semiconductor supply chains fuels tensions between major powers.
+title_fr: Guerres
+description_fr: L'IA remodèle les luttes de pouvoir à l'échelle mondiale à mesure qu'elle est utilisée dans les cyberattaques, la surveillance et les opérations militaires. Le contrôle de la recherche sur l'IA, des données et des chaînes d'approvisionnement en semi-conducteurs alimente les tensions entre les grandes puissances.
+img: "imgs/war.png"
+bibliography:
+  - "Johnson, J. (2019). Artificial intelligence & future warfare: implications for international security. Defense & Security Analysis, 35(2), 147-169."

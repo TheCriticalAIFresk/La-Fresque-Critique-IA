@@ -1,0 +1,9 @@
+card_number: 28
+card_set: 3
+title_en: AI Divide
+description_en: Unequal access to AI infrastructure and training deepen global inequalities. A gap opens up between countries, groups and individuals who have access to the benefits of AI and those who suffer from its consequences and externalities.
+title_fr: Fracture de l’IA
+description_fr: L'inégalité d'accès à l'infrastructure et aux formations en matière d'IA aggrave les inégalités dans le monde. Un fossé se creuse entre les pays, les groupes et les individus qui ont accès aux avantages de l'IA et ceux qui souffrent de ses conséquences et de ses externalités.
+img: "imgs/ai-divide.png"
+bibliography:
+  - "International Labour Organization. (2021). Mind the AI divide: Shaping a global perspective on the future of work. International Labour Organization. https://www.ilo.org/publications/major-publications/mind-ai-divide-shaping-global-perspective-future-work"

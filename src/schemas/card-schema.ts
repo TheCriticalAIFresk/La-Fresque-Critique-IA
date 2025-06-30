@@ -7,9 +7,8 @@ export const CardSchema = z.object({
   title_fr: z.string(),
   description_en: z.string(),
   description_fr: z.string(),
-  img: z.string(),
+  img: z.string().optional(),
   bibliography: z.array(z.string()),
-  url: z.string().optional(),
 });
 
 export type Card = z.infer<typeof CardSchema>;

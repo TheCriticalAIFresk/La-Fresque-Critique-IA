@@ -1,7 +1,6 @@
 card_number: 5
 card_set: 1
-url: https://github.com/TheCriticalAIFresk/La-Fresque-Critique-IA/cards/disinformation.yml
-img: assets/imgs/disinformation.png
+img: imgs/disinformation.png
 title_en: Disinformation
 description_en: Disinformation is the dissemination of false or inaccurate information with the aim of causing serious harm, manipulating public opinion and even influencing elections. AI can help generate and automate the quick spreading of false information disguised as real news on social media.
 title_fr: Désinformation

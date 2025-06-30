@@ -13,12 +13,14 @@ export default function CardDisplay({ card }: { card: CardType }) {
     locale === "fr" ? card.description_fr : card.description_en;
   return (
     <Card className="group relative w-full overflow-hidden border shadow-sm transition-all duration-200 h-80 p-2">
-      <Image
-        src={`/${card.img}`} // Ensure this path is correct relative to /public
-        alt={title}
-        fill
-        className="object-cover"
-      />
+      {card.img && (
+        <Image
+          src={`/${card.img}`} // Ensure this path is correct relative to /public
+          alt={title}
+          fill
+          className="object-cover"
+        />
+      )}
 
       <div className="absolute inset-0 bg-black opacity-0 transition-opacity duration-300 group-hover:opacity-80 z-10" />
 

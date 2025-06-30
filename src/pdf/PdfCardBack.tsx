@@ -6,8 +6,7 @@ type Props = {
   description: string;
   number: number;
   setLabel: number;
-  url?: string;
-  qrImage?: string;
+  qrImage: string;
 };
 
 export const PdfCardBack: React.FC<Props> = ({

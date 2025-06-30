@@ -2,14 +2,14 @@
   "name": "fresque-critique-ia",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "generate:pdf": "npm run build:json && tsx scripts/generate-pdf.ts",
-    "build:json": "tsx scripts/generate-json.ts",
+    "build:cards": "tsx scripts/build-cards.ts",
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm run build:cards && next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "npm run build:json && vercel --prod"
+    "deploy": "npm run build:cards && vercel --prod"
   },
   "dependencies": {
     "@radix-ui/react-dropdown-menu": "^2.1.15",

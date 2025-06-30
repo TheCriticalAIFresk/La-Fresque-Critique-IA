@@ -1,0 +1,11 @@
+card_number: 29
+card_set: 4
+title_en: Human Rights Violation
+description_en: "AI systems pose significant human rights risks all along their supply chain: exploitation, privacy violations, discrimination, threats to democratic processes and infringements on human dignity and autonomy."
+title_fr: Violation des Droits Humains
+description_fr: "Les systèmes d'IA présentent des risques importants pour les droits humains tout au long de leur chaîne d'approvisionnement : exploitation, violations de la vie privée, discrimination, menaces pour les processus démocratiques et atteintes à la dignité humaine et à l'autonomie."
+img: "imgs/human-rights-violation.png"
+bibliography:
+  - "Now, A. (2018). Human rights in the age of artificial intelligence. Access Now."
+  - "Rodrigues, R. (2020). Legal and human rights issues of AI: Gaps, challenges and vulnerabilities. Journal of Responsible Technology, 4, 100005."
+  - "Bacciarelli, A. (2023). The Toronto Declaration: Protecting the right to equality and non-discrimination in machine learning systems."

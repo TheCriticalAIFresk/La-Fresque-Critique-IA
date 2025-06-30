@@ -1,0 +1,10 @@
+card_number: 16
+card_set: 2
+title_en: Energy consumption
+description_en: Data center electricity consumption, often sourced from fossil fuels, is growing due to cloud and AI-service demand.
+title_fr: Consommation Énergétique
+description_fr: La consommation d'électricité des centres de données, souvent issue de combustibles fossiles, augmente en raison de la demande de services de cloud et de services d'IA.
+img: "imgs/energy-consumption.png"
+bibliography:
+  - "International Energy Agency. (2021). Global energy review: CO₂ emissions in 2021. https://www.iea.org/reports/global-energy-review-co2-emissions-in-2021"
+  - "Shehabi, A., Smith, S.J., Hubbard, A., Newkirk, A., Lei, N., Siddik, M.A.B., Holecek, B., Koomey, J., Masanet, E., Sartor, D. 2024. 2024 United States Data Center Energy Usage Report. Lawrence Berkeley National Laboratory, Berkeley, California. LBNL-2001637"
